@@ -2,6 +2,8 @@ title: "LP"
 description: "Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)"
 author: "Luis Palomero"
 
+favicon: /favicon.ico
+
 remote_theme: just-the-docs/just-the-docs
 nav_order: 1
 nav:
