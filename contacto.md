@@ -1,3 +1,8 @@
+---
+title: "Contacto"
+nav_order: 4
+---
+
 # Contacto
 
 - 📧 **Email**: [lpalomerol@gmail.com](mailto:lpalomerol@gmail.com)  
