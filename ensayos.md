@@ -1,3 +1,8 @@
+---
+title: "Ensayos"
+nav_order: 3
+---
+
 # Ensayos y artículos
 
 Espacio para compartir textos no académicos formales pero relevantes para tu trabajo y reflexiones.  
