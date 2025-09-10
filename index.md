@@ -9,18 +9,35 @@ Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
 
 ---
 
-## Sobre mí
-Soy investigador en modelos de predicción aplicados a la economía de los trabajadores autónomos.  
-Trabajo con lógica difusa, machine learning y modelos híbridos.
+## Breve biografía
+Soy científico de datos con experiencia en proyectos de investigación aplicada y en el desarrollo de soluciones tecnológicas para la economía de los trabajadores autónomos.  
+He trabajado tanto en el ámbito académico como en la industria, combinando la investigación con aplicaciones prácticas que buscan aportar valor real.
 
 ---
 
-## Publicaciones destacadas
-- Palomero, L., García, V., Sánchez, J.S. (2024). *Cash Flow Forecasting for Self-employed Workers: Fuzzy Inference Systems or Parametric Models?* Computational Economics.  
-- Palomero, L. et al. (2025). *Modeling and forecasting social security contributions for self-employed workers with ensembles and transformers.* (en revisión).  
+## Enfoque en ciencia de datos
+Concibo la ciencia de datos como una disciplina que debe ofrecer soluciones que sean:
+- **Funcionales** → resuelvan el problema real de forma práctica.  
+- **Robustas** → capaces de operar de manera fiable en escenarios complejos.  
+- **Elegantes** → simples en su diseño y fáciles de comunicar.  
+
+En investigación, mis principios son:
+- Que sea **fácil de entender**.  
+- Que sea **aplicable** en la práctica.  
+- Que sea **consistente** en sus resultados.  
+
+En comunicación, defiendo un estilo **concreto, accionable y directo**.
 
 ---
 
-## Contacto
-- 📧 [lpalomerol@gmail.com](mailto:lpalomerol@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luispalomero/)  
+## Objetivos de investigación
+Mis principales líneas de investigación se centran en:
+- **Inteligencia Artificial aplicada a las finanzas**: modelos de predicción de series temporales, lógica difusa y modelos híbridos para la gestión económica de autónomos y pymes.  
+- **Bioinformática**: aplicación de técnicas de machine learning e IA en el análisis de datos biomédicos.  
+
+---
+
+## Links rápidos
+- 🎓 [Google Scholar](https://scholar.google.com/)  
+- 🔗 [ORCID](https://orcid.org/0000-0000-0000-0000)  
+- 💻 [GitHub](https://github.com/lpalomerol)  
