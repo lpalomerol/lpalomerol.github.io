@@ -3,9 +3,10 @@ title: "Inicio"
 nav_order: 1
 ---
 
-# Luis Palomero
+# Bienvenido
 
-Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
+Soy científico de datos e investigador en IA aplicada a finanzas y bioinformática.  
+Mi trabajo busca soluciones **funcionales, robustas y elegantes** en ciencia de datos.
 
 ---
 
