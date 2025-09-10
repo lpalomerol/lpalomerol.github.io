@@ -3,7 +3,7 @@ title: "Inicio"
 nav_order: 1
 ---
 
-# Luis Palomero López de Armentia
+# Luis Palomero
 
 Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
 
