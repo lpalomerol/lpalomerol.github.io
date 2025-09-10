@@ -1,3 +1,8 @@
+---
+title: "Publicaciones"
+nav_order: 2
+---
+
 # Publicaciones
 
 ## Artículos en revistas
