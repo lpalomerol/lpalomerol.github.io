@@ -2,3 +2,13 @@ title: "Luis Palomero"
 description: "Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)"
 
 theme: jekyll-theme-cayman
+
+nav:
+  - title: "Inicio"
+    url: /
+  - title: "Publicaciones"
+    url: /publicaciones
+  - title: "Ensayos"
+    url: /ensayos
+  - title: "Contacto"
+    url: /contacto
