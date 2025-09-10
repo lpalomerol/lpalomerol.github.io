@@ -1,6 +1,6 @@
 # Luis Palomero López de Armentia
 
-Científico de datos | Investigador en predicción de series temporales | Doctor en Informática (UJI)
+Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
 
 ---
 
