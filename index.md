@@ -1,6 +1,7 @@
 ---
 title: "Inicio"
-nav_order: 1
+layout: single
+author_profile: true
 ---
 
 # Bienvenido
