@@ -1,6 +1,10 @@
 ---
 title: "Contacto"
 permalink: /contacto/
+layout: single
+author_profile: true
+toc: false
+classes: wide
 ---
 
 - 📧 **Email**: [lpalomerol@gmail.com](mailto:lpalomerol@gmail.com)  
