@@ -1,5 +1,10 @@
 title: "LP"
 description: "Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)"
+
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
 author:
   name: "Luis Palomero"
   avatar: "/assets/img/avatar.jpg"
@@ -15,18 +20,25 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/lpalomerol"
+
 favicon: /favicon.ico
-remote_theme: mmistakes/minimal-mistakes
 
-plugins:
-  - jekyll-include-cache
-
-nav:
+# Navegación principal
+main:
   - title: "Inicio"
     url: /
   - title: "Publicaciones"
-    url: /publicaciones
+    url: /publicaciones/
   - title: "Ensayos"
-    url: /ensayos
+    url: /ensayos/
   - title: "Contacto"
-    url: /contacto
+    url: /contacto/
+
+# Layout por defecto con sidebar
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
