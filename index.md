@@ -38,8 +38,3 @@ Mis principales líneas de investigación se centran en:
 - **Bioinformática**: aplicación de técnicas de machine learning e IA en el análisis de datos biomédicos.  
 
 ---
-
-## Links rápidos
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=1yj1TycAAAAJ&hl=en)  
-- 🔗 [ORCID](https://orcid.org/0000-0002-9144-1017)
-- 💻 [GitHub](https://github.com/lpalomerol)  
