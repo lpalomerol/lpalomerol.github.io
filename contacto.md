@@ -1,7 +1,7 @@
 ---
 title: "Contacto"
 permalink: /contacto/
-layout: single
+layout: home
 author_profile: true
 toc: false
 classes: wide
