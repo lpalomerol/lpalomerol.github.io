@@ -26,17 +26,7 @@ author:
 
 favicon: /favicon.ico
 
-# Navegación principal
-navigation:
-  main:
-    - title: "Inicio"
-      url: /
-    - title: "Publicaciones"
-      url: /publicaciones/
-    - title: "Ensayos y artículos"
-      url: /ensayos/
-    - title: "Contacto"
-      url: /contacto/
+
 
 # Layout por defecto con sidebar
 defaults:
