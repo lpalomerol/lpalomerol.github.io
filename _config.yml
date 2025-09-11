@@ -26,31 +26,11 @@ author:
 
 favicon: /favicon.ico
 
-# -----------------------
-# OPCIÓN 1: Header Pages
-# -----------------------
-# Esto siempre funciona en GitHub Pages. 
-# Activa los links en la cabecera directamente desde los ficheros .md
-#header_pages:
-#  - index.md
-#  - publicaciones.md
-#  - ensayos.md
-#  - contacto.md
-
-# -----------------------
-# OPCIÓN 2: Navigation (comentada por ahora)
-# -----------------------
-# Descomenta esto si prefieres usar el sistema nativo de Minimal Mistakes.
-navigation:
-   main:
-    - title: "Inicio"
-      url: /
-    - title: "Publicaciones"
-      url: /publicaciones/
-    - title: "Ensayos y artículos"
-      url: /ensayos/
-    - title: "Contacto"
-      url: /contacto/
+header_pages:
+  - index.md
+  - publicaciones.md
+  - ensayos.md
+  - contacto.md
 
 # Layout por defecto con sidebar
 defaults:
