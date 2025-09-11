@@ -1,10 +1,12 @@
 ---
 title: "Publicaciones"
 permalink: /publicaciones/
-layout: default
+layout: single
 author_profile: true
 toc: false
 classes: wide
+header:
+  nav: main
 ---
 
 
