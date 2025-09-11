@@ -3,8 +3,6 @@ title: "Inicio"
 permalink: /
 ---
 
-# Luis Palomero López de Armentia
-
 Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
 
 ---
