@@ -41,16 +41,16 @@ favicon: /favicon.ico
 # OPCIÓN 2: Navigation (comentada por ahora)
 # -----------------------
 # Descomenta esto si prefieres usar el sistema nativo de Minimal Mistakes.
- navigation:
+navigation:
    main:
-     - title: "Inicio"
-       url: /
-     - title: "Publicaciones"
-       url: /publicaciones/
-     - title: "Ensayos y artículos"
-       url: /ensayos/
-     - title: "Contacto"
-       url: /contacto/
+    - title: "Inicio"
+      url: /
+    - title: "Publicaciones"
+      url: /publicaciones/
+    - title: "Ensayos y artículos"
+      url: /ensayos/
+    - title: "Contacto"
+      url: /contacto/
 
 # Layout por defecto con sidebar
 defaults:
