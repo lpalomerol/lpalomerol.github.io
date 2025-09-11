@@ -1,13 +1,11 @@
 ---
 title: "Inicio"
-layout: single
-author_profile: true
+permalink: /
 ---
 
-# Bienvenido
+# Luis Palomero López de Armentia
 
-Soy científico de datos e investigador en IA aplicada a finanzas y bioinformática.  
-Mi trabajo busca soluciones **funcionales, robustas y elegantes** en ciencia de datos.
+Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
 
 ---
 
@@ -40,6 +38,7 @@ Mis principales líneas de investigación se centran en:
 ---
 
 ## Links rápidos
+- 📄 [Currículum en PDF](#)  
 - 🎓 [Google Scholar](https://scholar.google.com/)  
 - 🔗 [ORCID](https://orcid.org/0000-0000-0000-0000)  
 - 💻 [GitHub](https://github.com/lpalomerol)  
