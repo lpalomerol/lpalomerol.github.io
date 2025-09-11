@@ -3,8 +3,6 @@ title: "Publicaciones"
 permalink: /publicaciones/
 ---
 
-# Publicaciones
-
 
 ## Artículos
 - Palomero, L., García, V., Sánchez, J.S. (2022). *Fuzzy-Based Time Series Forecasting and Modelling: A Bibliometric Analysis*. [DOI: https://doi.org/10.3390/app12146894]
