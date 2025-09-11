@@ -20,12 +20,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/luispalomero/"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/lpalomerol"
-    - label: "Google Scholar"
-      icon: "fas fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=1yj1TycAAAAJ&hl=en"
     - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-9144-1017"
@@ -37,26 +31,26 @@ favicon: /favicon.ico
 # -----------------------
 # Esto siempre funciona en GitHub Pages. 
 # Activa los links en la cabecera directamente desde los ficheros .md
-header_pages:
-  - index.md
-  - publicaciones.md
-  - ensayos.md
-  - contacto.md
+#header_pages:
+#  - index.md
+#  - publicaciones.md
+#  - ensayos.md
+#  - contacto.md
 
 # -----------------------
 # OPCIÓN 2: Navigation (comentada por ahora)
 # -----------------------
 # Descomenta esto si prefieres usar el sistema nativo de Minimal Mistakes.
-# navigation:
-#   main:
-#     - title: "Inicio"
-#       url: /
-#     - title: "Publicaciones"
-#       url: /publicaciones/
-#     - title: "Ensayos y artículos"
-#       url: /ensayos/
-#     - title: "Contacto"
-#       url: /contacto/
+ navigation:
+   main:
+     - title: "Inicio"
+       url: /
+     - title: "Publicaciones"
+       url: /publicaciones/
+     - title: "Ensayos y artículos"
+       url: /ensayos/
+     - title: "Contacto"
+       url: /contacto/
 
 # Layout por defecto con sidebar
 defaults:
