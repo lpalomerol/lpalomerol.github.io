@@ -1,6 +1,7 @@
 ---
 title: "Contacto"
-nav_order: 4
+layout: single
+author_profile: true
 ---
 
 # Contacto
