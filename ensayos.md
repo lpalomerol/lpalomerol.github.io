@@ -1,6 +1,10 @@
 ---
 title: "Ensayos y artículos"
 permalink: /ensayos/
+layout: single
+author_profile: true
+toc: false
+classes: wide
 ---
 
 En esta sección recopilo escritos y reflexiones en distintos formatos: ensayos personales, artículos divulgativos y aportaciones académicas.
