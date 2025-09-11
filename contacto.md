@@ -1,10 +1,12 @@
 ---
 title: "Contacto"
 permalink: /contacto/
-layout: default
+layout: single
 author_profile: true
 toc: false
 classes: wide
+header:
+  nav: main
 ---
 
 - 📧 **Email**: [lpalomerol@gmail.com](mailto:lpalomerol@gmail.com)  
