@@ -1,7 +1,6 @@
 ---
 title: "Contacto"
-layout: single
-author_profile: true
+permalink: /contacto/
 ---
 
 # Contacto
