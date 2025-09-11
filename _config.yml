@@ -46,4 +46,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      nav: main
+
+
+# Páginas que aparecen en la cabecera
+header_pages:
+  - index.md
+  - publicaciones.md
+  - ensayos.md
+  - contacto.md
