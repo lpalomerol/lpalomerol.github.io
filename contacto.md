@@ -3,8 +3,6 @@ title: "Contacto"
 permalink: /contacto/
 ---
 
-# Contacto
-
 - 📧 **Email**: [lpalomerol@gmail.com](mailto:lpalomerol@gmail.com)  
 - 💼 **LinkedIn**: [Perfil](https://www.linkedin.com/in/lpalomerol)  
 - 🔗 **ORCID**: [0000-0002-9144-1017](https://orcid.org/0000-0002-9144-1017)  
