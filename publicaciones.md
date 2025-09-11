@@ -1,6 +1,7 @@
 ---
 title: "Publicaciones"
-nav_order: 2
+layout: single
+author_profile: true
 ---
 
 # Publicaciones
