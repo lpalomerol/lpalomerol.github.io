@@ -1,6 +1,10 @@
 ---
 title: "Inicio"
 permalink: /
+layout: single
+author_profile: true
+toc: false
+classes: wide
 ---
 
 Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
