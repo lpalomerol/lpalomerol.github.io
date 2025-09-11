@@ -1,7 +1,7 @@
 ---
 title: "Inicio"
 permalink: /
-layout: home
+layout: default
 author_profile: true
 toc: false
 classes: wide
