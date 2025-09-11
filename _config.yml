@@ -4,7 +4,17 @@ author:
   name: "Luis Palomero"
   avatar: "/assets/img/avatar.jpg"
   bio: "Investigador en IA aplicada a finanzas y bioinformática"
-
+  location : "Castellón de la Plana, España"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:lpalomerol@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/luispalomero/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/lpalomerol"
 favicon: /favicon.ico
 remote_theme: mmistakes/minimal-mistakes
 
