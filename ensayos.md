@@ -1,7 +1,7 @@
 ---
 title: "Ensayos y artículos"
 permalink: /ensayos/
-layout: single
+layout: home
 author_profile: true
 toc: false
 classes: wide
