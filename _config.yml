@@ -1,10 +1,16 @@
 title: "LP"
 description: "Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)"
-author: "Luis Palomero"
+author:
+  name: "Luis Palomero"
+  avatar: "/assets/img/avatar.jpg"
+  bio: "Investigador en IA aplicada a finanzas y bioinformática"
 
 favicon: /favicon.ico
+remote_theme: mmistakes/minimal-mistakes
 
-remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-include-cache
+
 nav_order: 1
 nav:
   - title: "Inicio"
