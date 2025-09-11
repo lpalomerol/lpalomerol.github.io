@@ -1,5 +1,5 @@
 ---
-title: "Inicio"
+title: ""
 permalink: /
 layout: single
 author_profile: true
