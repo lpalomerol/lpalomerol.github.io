@@ -1,0 +1,9 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Publicaciones"
+    url: /publicaciones/
+  - title: "Ensayos y artículos"
+    url: /ensayos/
+  - title: "Contacto"
+    url: /contacto/
