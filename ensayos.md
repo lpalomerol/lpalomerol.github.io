@@ -1,7 +1,6 @@
 ---
 title: "Ensayos"
-layout: single
-author_profile: true
+permalink: /ensayos/
 ---
 
 # Ensayos y artículos
