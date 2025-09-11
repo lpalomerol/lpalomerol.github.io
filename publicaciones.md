@@ -1,7 +1,7 @@
 ---
 title: "Publicaciones"
 permalink: /publicaciones/
-layout: single
+layout: home
 author_profile: true
 toc: false
 classes: wide
