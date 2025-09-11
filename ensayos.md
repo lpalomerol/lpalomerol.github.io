@@ -1,6 +1,7 @@
 ---
 title: "Ensayos"
-nav_order: 3
+layout: single
+author_profile: true
 ---
 
 # Ensayos y artículos
