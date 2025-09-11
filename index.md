@@ -9,7 +9,9 @@ header:
   nav: main
 ---
 
-Científico de datos | Investigador | Candidato a Doctor en Informática (UJI)
+
+# Luis Palomero
+Científico de datos · Investigador · Candidato a Doctor en Informática (UJI)
 
 ---
 
