@@ -1,9 +1,7 @@
 ---
-title: "Ensayos"
+title: "Ensayos y artículos"
 permalink: /ensayos/
 ---
-
-# Ensayos y artículos
 
 En esta sección recopilo escritos y reflexiones en distintos formatos: ensayos personales, artículos divulgativos y aportaciones académicas.
 
