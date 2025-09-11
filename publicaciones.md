@@ -1,6 +1,10 @@
 ---
 title: "Publicaciones"
 permalink: /publicaciones/
+layout: single
+author_profile: true
+toc: false
+classes: wide
 ---
 
 
