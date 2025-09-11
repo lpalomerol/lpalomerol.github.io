@@ -6,7 +6,8 @@ locale: "es-ES"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-
+  - jekyll-feed
+  
 author:
   name: "Luis Palomero"
   avatar: "/assets/img/avatar.jpg"
