@@ -8,6 +8,12 @@ plugins:
   - jekyll-include-cache
   - jekyll-feed
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-DFSF5WTWG7"
+    anonymize_ip: true
+
 author:
   name: "Luis Palomero"
   avatar: "/assets/img/avatar.jpg"
