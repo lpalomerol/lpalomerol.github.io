@@ -1,1 +1,0 @@
-# lpalomerol.github.io

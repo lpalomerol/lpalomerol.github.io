@@ -1,47 +1,4 @@
-title: "LP"
-description: "Bioinformático & ML Engineer | PhD Industrial | ML para Investigación Oncológica"
+title: "Luis Palomero, PhD | Consultoría Bioinformática y Bioestadística Oncológica"
+description: "Transformo datos clínicos y multi-ómicos en publicaciones científicas de alto impacto."
 author: "Luis Palomero"
 locale: "es-ES"
-
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-DFSF5WTWG7"
-    anonymize_ip: true
-
-author:
-  name: "Luis Palomero"
-  avatar: "/assets/img/avatar.jpg"
-  bio: "Bioinformático & ML Engineer · PhD Industrial · ML para investigación oncológica · @Declarando"
-  location : "Castellón de la Plana, España"
-  links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:lpalomerol@gmail.com"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/luispalomero/"
-    - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0002-9144-1017"
-
-favicon: /favicon.ico
-
-
-
-# Layout por defecto con sidebar
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-      author_profile: true
-      toc: false
-      classes: wide
-      nav: main
