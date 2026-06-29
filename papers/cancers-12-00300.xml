@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article" dtd-version="1.1" xml:lang="en">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">cancers</journal-id>
+      <journal-title-group>
+        <journal-title>Cancers</journal-title>
+        <abbrev-journal-title abbrev-type="publisher">Cancers</abbrev-journal-title>
+        <abbrev-journal-title abbrev-type="pubmed">Cancers</abbrev-journal-title>
+      </journal-title-group>
+      <issn pub-type="epub">2072-6694</issn>
+      <publisher>
+        <publisher-name>MDPI</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.3390/cancers12020300</article-id>
+      <article-id pub-id-type="publisher-id">cancers-12-00300</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>EVI1 as a Prognostic and Predictive Biomarker of Clear Cell Renal Cell Carcinoma</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Palomero</surname>
+            <given-names>Luis</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Bodnar</surname>
+            <given-names>Lubomir</given-names>
+          </name>
+          <xref rid="af2-cancers-12-00300" ref-type="aff">2</xref>
+          <xref rid="af3-cancers-12-00300" ref-type="aff">3</xref>
+          <xref rid="c1-cancers-12-00300" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Mateo</surname>
+            <given-names>Francesca</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Herranz-Ors</surname>
+            <given-names>Carmen</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Esp&#xED;n</surname>
+            <given-names>Roderic</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Garc&#xED;a-Varelo</surname>
+            <given-names>Mar</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jesiotr</surname>
+            <given-names>Marzena</given-names>
+          </name>
+          <xref rid="af4-cancers-12-00300" ref-type="aff">4</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0001-9936-8419</contrib-id>
+          <name>
+            <surname>Ruiz de Garibay</surname>
+            <given-names>Gorka</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0002-4298-3995</contrib-id>
+          <name>
+            <surname>Casanovas</surname>
+            <given-names>Oriol</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-0842-5348</contrib-id>
+          <name>
+            <surname>L&#xF3;pez</surname>
+            <given-names>Jos&#xE9; I.</given-names>
+          </name>
+          <xref rid="af5-cancers-12-00300" ref-type="aff">5</xref>
+          <xref rid="c1-cancers-12-00300" ref-type="corresp">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <contrib-id contrib-id-type="orcid" authenticated="true">https://orcid.org/0000-0003-3222-4044</contrib-id>
+          <name>
+            <surname>Pujana</surname>
+            <given-names>Miquel Angel</given-names>
+          </name>
+          <xref rid="af1-cancers-12-00300" ref-type="aff">1</xref>
+          <xref rid="c1-cancers-12-00300" ref-type="corresp">*</xref>
+        </contrib>
+      </contrib-group>
+      <aff id="af1-cancers-12-00300"><label>1</label>ProCURE, Catalan Institute of Oncology (ICO), Bellvitge Institute for Biomedical Research (IDIBELL), L&#x2019;Hospitalet del Llobregat, Barcelona 08908, Catalonia, Spain; <email>lpalomero@iconcologia.net</email> (L.P.); <email>fmateo@iconcologia.net</email> (F.M.); <email>cherranz@iconcologia.net</email> (C.H.-O.); <email>rodericespin@gmail.com</email> (R.E.); <email>mgarciavaler@uoc.edu</email> (M.G.-V.); <email>grponce@iconcologia.net</email> (G.R.d.G.); <email>ocasanovas@iconcologia.net</email> (O.C.)</aff>
+      <aff id="af2-cancers-12-00300"><label>2</label>Department of Oncology and Immunooncology, Hospital Ministry of the Interior and Administration with Warmia and Mazury Oncology Center, Olsztyn 10-719, Poland</aff>
+      <aff id="af3-cancers-12-00300"><label>3</label>Department of Oncology, University of Warmia and Masuria, Olsztyn 10-719, Poland</aff>
+      <aff id="af4-cancers-12-00300"><label>4</label>Department of Pathology, Military Institute of Medicine, Warsaw 04-141, Poland; <email>marzena@obta.uw.edu.pl</email></aff>
+      <aff id="af5-cancers-12-00300"><label>5</label>Department of Pathology, Cruces University Hospital, Biocruces Institute, Barakaldo 48903, Spain</aff>
+      <author-notes>
+        <corresp id="c1-cancers-12-00300"><label>*</label>Correspondence: <email>lubomirbodnar.lb@gmail.com</email> (L.B.); <email>joseignacio.lopezfernandezdevillaverde@osakidetza.eus</email> (J.I.L.); <email>mapujana@iconcologia.net</email> (M.A.P.); Tel.: +48-261817380 (L.B.); +34-946006336 (J.I.L.); +34-932607952 (M.A.P.)</corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <day>28</day>
+        <month>01</month>
+        <year>2020</year>
+      </pub-date>
+      <pub-date pub-type="collection">
+        <month>02</month>
+        <year>2020</year>
+      </pub-date>
+      <volume>12</volume>
+      <issue>2</issue>
+      <elocation-id>300</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>20</day>
+          <month>11</month>
+          <year>2019</year>
+        </date>
+        <date date-type="accepted">
+          <day>25</day>
+          <month>01</month>
+          <year>2020</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#xA9; 2020 by the authors.</copyright-statement>
+        <copyright-year>2020</copyright-year>
+        <license license-type="open-access">
+          <license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p>
+        </license>
+      </permissions>
+      <abstract>
+        <p>The transcription factor EVI1 plays an oncogenic role in several types of neoplasms by promoting aggressive cancer features. EVI1 contributes to epigenetic regulation and transcriptional control, and its overexpression has been associated with enhanced PI3K-AKT-mTOR signaling in some settings. These observations raise the possibility that EVI1 influences the prognosis and everolimus-based therapy outcome of clear cell renal cell carcinoma (ccRCC). Here, gene expression and protein immunohistochemical studies of ccRCC show that EVI1 overexpression is associated with advanced disease features and with poorer outcome&#x2014;particularly in the CC-e.3 subtype defined by The Cancer Genome Atlas. Overexpression of an oncogenic EVI1 isoform in RCC cell lines confers substantial resistance to everolimus. The <italic>EVI1</italic> rs1344555 genetic variant is associated with poorer survival and greater progression of metastatic ccRCC patients treated with everolimus. This study leads us to propose that evaluation of EVI1 protein or gene expression, and of <italic>EVI1</italic> genetic variants may help improve estimates of prognosis and the benefit of everolimus-based therapy in ccRCC. </p>
+      </abstract>
+      <kwd-group>
+        <kwd>everolimus</kwd>
+        <kwd>EVI1</kwd>
+        <kwd>genetic association</kwd>
+        <kwd>mTOR</kwd>
+        <kwd>clear cell renal cell carcinoma</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec1-cancers-12-00300" sec-type="intro">
+      <title>1. Introduction</title>
+      <p>The ecotropic viral integration site 1 gene (<italic>Evi1</italic>) locus was initially highlighted in mouse studies as a common retroviral integration genomic location causing myeloid tumors [<xref ref-type="bibr" rid="B1-cancers-12-00300">1</xref>]. It encodes a dual-domain zinc-finger transcription factor with a fundamental role in regulating hematopoietic stem cell renewal and myeloid progenitor cell differentiation [<xref ref-type="bibr" rid="B2-cancers-12-00300">2</xref>]. Abnormal overexpression of EVI1 and, therefore, activation of its underlying transcriptional program, are involved in up to a quarter of pediatric acute myeloid leukemia (AML), and influence prognosis and response to chemotherapy in this setting [<xref ref-type="bibr" rid="B3-cancers-12-00300">3</xref>,<xref ref-type="bibr" rid="B4-cancers-12-00300">4</xref>]. More recently, an oncogenic role for EVI1 has been broadened to include several epithelial cancers, similarly associated with aggressive features [<xref ref-type="bibr" rid="B5-cancers-12-00300">5</xref>,<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>,<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>,<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>,<xref ref-type="bibr" rid="B9-cancers-12-00300">9</xref>,<xref ref-type="bibr" rid="B10-cancers-12-00300">10</xref>,<xref ref-type="bibr" rid="B11-cancers-12-00300">11</xref>,<xref ref-type="bibr" rid="B12-cancers-12-00300">12</xref>,<xref ref-type="bibr" rid="B13-cancers-12-00300">13</xref>]. Analyses of genomic alterations across cancers have shown that chromosome 3q26.2, which harbors <italic>EVI1</italic>, is amplified in a variety of epithelial cancer types [<xref ref-type="bibr" rid="B14-cancers-12-00300">14</xref>]. The specific locus is also known as the <italic>MDS1</italic> and <italic>EVI1</italic> complex locus (<italic>MECOM</italic>), and different isoforms may emerge with apparently opposite roles in tumorigenesis [<xref ref-type="bibr" rid="B5-cancers-12-00300">5</xref>,<xref ref-type="bibr" rid="B15-cancers-12-00300">15</xref>].</p>
+      <p>The oncogenic function of EVI1 is mediated by its established role on epigenetic regulation and transcriptional control [<xref ref-type="bibr" rid="B16-cancers-12-00300">16</xref>,<xref ref-type="bibr" rid="B17-cancers-12-00300">17</xref>,<xref ref-type="bibr" rid="B18-cancers-12-00300">18</xref>]. EVI1 interacts with Polycomb-group (PcG) proteins to repress the expression of the tumor suppressor gene <italic>PTEN</italic> [<xref ref-type="bibr" rid="B19-cancers-12-00300">19</xref>]. In parallel, it interacts with DNA methyltransferases causing a hypermethylation genomic signature [<xref ref-type="bibr" rid="B20-cancers-12-00300">20</xref>]. In addition, EVI1 promotes specific gene silencing though interactions with histone methyltransferases [<xref ref-type="bibr" rid="B21-cancers-12-00300">21</xref>,<xref ref-type="bibr" rid="B22-cancers-12-00300">22</xref>,<xref ref-type="bibr" rid="B23-cancers-12-00300">23</xref>]. As consequence of these functional associations, several key signaling pathways are altered promoting cancer. EVI1 negatively regulates TGF-&#x3B2; signaling through repression of <italic>SMAD3</italic> [<xref ref-type="bibr" rid="B24-cancers-12-00300">24</xref>,<xref ref-type="bibr" rid="B25-cancers-12-00300">25</xref>]. Furthermore, oncogenic EVI1 frequently enhances PI3K-AKT-mTOR signaling, as by repression of <italic>PTEN</italic> in leukemogenesis [<xref ref-type="bibr" rid="B19-cancers-12-00300">19</xref>]. In intestinal epithelial cells, oncogenic EVI1 overactivates PI3K-AKT signaling in response to TGF&#x3B2;-mediated and taxol-mediated apoptosis [<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>]. In breast cancer, overexpression of EVI1 is associated with poor prognosis [<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>], stem cell-like and lung-metastatic features, and resistance to allosteric mTOR inhibition [<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>]. Cancer stem cell-like and metastatic cells rely on enhanced mTOR activity, and EVI1 maintains this signaling by transcriptional upregulation of key pathway components and metastatic mediators [<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>].</p>
+      <p>The depicted associations between oncogenic EVI1 and abnormally enhanced mTOR activity raise the possibility that EVI1 influences cancer prognosis and therapeutic response in a clinical setting where this kinase plays a central role, that of ccRCC. This is the most frequent type of kidney cancer in adults, which is commonly caused by genetic alterations that hamper proper cellular response to hypoxia and, in turn, demand enhanced mTOR signaling [<xref ref-type="bibr" rid="B26-cancers-12-00300">26</xref>,<xref ref-type="bibr" rid="B27-cancers-12-00300">27</xref>]. Thus, everolimus, an allosteric mTOR inhibitor has been approved for the treatment of advanced ccRCC [<xref ref-type="bibr" rid="B28-cancers-12-00300">28</xref>]. On the basis of these observations, we evaluated genetic variants and expression features of <italic>EVI1</italic>/EVI1 for their associations with ccRCC prognosis and therapeutic response. Our findings have the potential to improve estimates of ccRCC prognosis and the clinical benefit from everolimus.</p>
+    </sec>
+    <sec id="sec2-cancers-12-00300" sec-type="results">
+      <title>2. Results</title>
+      <sec id="sec2dot1-cancers-12-00300">
+        <title>2.1. EVI1 Overexpression Is Associated with Progression Features and Poor Prognosis of ccRCC</title>
+        <p>In addition to myeloid leukemia, overexpression of EVI1 has been associated with aggressive phenotypes of breast cancer, colorectal, lung, ovarian, pancreatic, and prostate cancer [<xref ref-type="bibr" rid="B5-cancers-12-00300">5</xref>,<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>,<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>,<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>,<xref ref-type="bibr" rid="B9-cancers-12-00300">9</xref>,<xref ref-type="bibr" rid="B10-cancers-12-00300">10</xref>,<xref ref-type="bibr" rid="B11-cancers-12-00300">11</xref>,<xref ref-type="bibr" rid="B12-cancers-12-00300">12</xref>,<xref ref-type="bibr" rid="B13-cancers-12-00300">13</xref>]. To determine whether there is a similar link with ccRCC, EVI1-targeted immunohistochemistry assays were performed that included cases with tumor extension to the venous system (i.e., formation of venous tumor thrombus), since this is a feature of locally advanced disease [<xref ref-type="bibr" rid="B29-cancers-12-00300">29</xref>]. Of 39 cases studied (<xref ref-type="app" rid="app1-cancers-12-00300">Supplementary Table S1</xref>), 8 (20%) tumors and 18 (46%) venous tumor thrombi were found to be positive for EVI1 expression (<xref ref-type="fig" rid="cancers-12-00300-f001">Figure 1</xref>A). EVI1 was also found to be expressed in tumor-invasive areas of fat tissue (<xref ref-type="fig" rid="cancers-12-00300-f001">Figure 1</xref>A).</p>
+        <p>Analyses of histopathological data revealed a positive association between EVI1 expression and the presence of cancer-affected lymph nodes: odds ratio (OR) = 15.46, 95% confidence interval (CI) = 1.02-936.43, Fisher&#x2019;s exact test <italic>p</italic> = 0.028 (<xref ref-type="fig" rid="cancers-12-00300-f001">Figure 1</xref>B). Combined analysis of the immunohistochemistry results from the tumors and venous tumor thrombi showed a significant association between EVI1 positivity and poorer patient outcome: multivariate Cox regression (including age and gender) overall survival (OS) EVI1 positivity hazard ratio (HR) = 2.94, 95% CI = 1.13&#x2013;7.63, <italic>p</italic> = 0.027 (<xref ref-type="fig" rid="cancers-12-00300-f001">Figure 1</xref>C). These data suggest that EVI1 overexpression also contributes to the aggressiveness of ccRCC.</p>
+      </sec>
+      <sec id="sec2dot2-cancers-12-00300">
+        <title>2.2. EVI1 Overexpression Confers ccRCC Cell Resistance to Everolimus</title>
+        <p>Somatic gain of the 3q26 genomic region including <italic>EVI1</italic> was noted in the original study of ccRCC of The Cancer Genome Atlas (TCGA KIRC) [<xref ref-type="bibr" rid="B30-cancers-12-00300">30</xref>]. Analysis of TCGA data identified the CC-e.3 as the ccRCC subtype with the greater proportion of tumors showing <italic>EVI1</italic> locus gain (<xref ref-type="fig" rid="cancers-12-00300-f002">Figure 2</xref>A). A high level of expression of EVI1 in this subtype&#x2014;but not in the other KIRC subtypes (CC-e.1-2) and complete cohort&#x2014;was found to be significantly associated with poorer outcome, as measured by a multivariate (including age, gender, and tumor stage) Cox regression analysis of progression-free interval (PFI; <xref ref-type="fig" rid="cancers-12-00300-f002">Figure 2</xref>B). The CC-e.3 subtype was identified by TCGA as the subgroup with a higher relative level of expression of markers of the epithelial&#x2013;mesenchymal transition [<xref ref-type="bibr" rid="B30-cancers-12-00300">30</xref>], which is consistent with the functional associations of EVI1 described in some cancer settings [<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>,<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>,<xref ref-type="bibr" rid="B15-cancers-12-00300">15</xref>]. Indeed, <italic>EVI1</italic> expression in CC-e.3 tumors was found to be positively co-expressed with several metastasis-, invasion- and integrin-related curated gene sets (<xref ref-type="app" rid="app1-cancers-12-00300">Supplementary Table S2</xref>). We previously identified the mTOR pathway components RHEB and RPTOR as being positively regulated by EVI1 in metastatic breast cancer with stem cell-like features [<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>]. Next, PFI analyses that took into account the expression of <italic>EVI1</italic> and either of these mTOR pathway components showed that outcome was significantly poorer when both genes were overexpressed (<xref ref-type="fig" rid="cancers-12-00300-f002">Figure 2</xref>C). Therefore, over-expression of <italic>EVI1</italic> may contribute to progression of certain ccRCC tumors.</p>
+        <p>Following on from the above observations, the responses of three RCC cell lines (ccRCC: 786-O and A498; and papillary RCC: ACHN) to everolimus upon ectopic overexpression of full-length EVI1 or EVI1<sup>Del190&#x2013;515</sup>&#x2014;two isoforms identified as oncogenic in ovarian cancer [<xref ref-type="bibr" rid="B15-cancers-12-00300">15</xref>]&#x2014;were assessed. The ACHN cell line was included because advanced papillary RCC may also be treated with everolimus [<xref ref-type="bibr" rid="B31-cancers-12-00300">31</xref>]. While the full-length isoform did not show any significant effects, all three cell lines were considerably less sensitive to everolimus when GFP-EVI1<sup>Del190&#x2013;515</sup> was overexpressed relative to GFP alone, with &gt;25-fold differences in the half-maximal inhibitory concentration (IC<sub>50</sub>) observed (<xref ref-type="fig" rid="cancers-12-00300-f003">Figure 3</xref>A). Rapalogs are primarily cytostatic instead of cytotoxic [<xref ref-type="bibr" rid="B32-cancers-12-00300">32</xref>] and, at the highest everolimus concentration (100 &#xB5;M) tested for 72 hours, the percentages of cell viability were for the GFP alone and GFP-EVI1<sup>Del190&#x2013;515</sup> conditions, respectively: 786-O, 26% and 21%; A498, 24% and 52%; and ACHN, 26% and 60%. </p>
+        <p>Molecular analyses showed that overexpression of GFP-EVI1<sup>Del190&#x2013;515</sup> causes a robust increase of basal phospho-Ser235/236-ribosomal S6 protein (pS6) in two of the cell lines (786-O and ACHN; <xref ref-type="fig" rid="cancers-12-00300-f003">Figure 3</xref>B, left panels). In addition, an increase of total S6 was noted in ACHN cells (<xref ref-type="fig" rid="cancers-12-00300-f003">Figure 3</xref>B, left panels); however, no consistent changes were observed in the A498 assays (<xref ref-type="fig" rid="cancers-12-00300-f003">Figure 3</xref>B, right panels). Therefore, oncogenic EVI1 may be linked to enhanced mTOR signaling in some RCC cell models, which in turn might influence sensitivity to everolimus.</p>
+      </sec>
+      <sec id="sec2dot3-cancers-12-00300">
+        <title>2.3. Common Genetic Variants in EVI1 Are Associated with Response to Everolimus of Metastatic ccRCC</title>
+        <p>The <italic>EVI1</italic> locus may be pleiotropic since at least 56 human traits have been linked to the corresponding genomic region (&#xB1;50 kilobases of the <italic>EVI1</italic>/<italic>MECOM</italic> locus) in the results from diverse genome-wide association studies (Genome Browser GWAS catalog data, version GRCh37/hg19). Some of the identified traits might in turn be linked to known EVI1 functions. Variant forms at this locus have been associated with lung [<xref ref-type="bibr" rid="B33-cancers-12-00300">33</xref>] and kidney function [<xref ref-type="bibr" rid="B34-cancers-12-00300">34</xref>,<xref ref-type="bibr" rid="B35-cancers-12-00300">35</xref>], and cancer risk, including breast and lung cancer susceptibility [<xref ref-type="bibr" rid="B36-cancers-12-00300">36</xref>]. Therefore, we analyzed leading variants from these studies (rs1344555, rs16853722, and rs75316749, respectively) to establish their association with progression of metastatic ccRCC treated with everolimus (<xref ref-type="app" rid="app1-cancers-12-00300">Supplementary Table S3</xref>).</p>
+        <p>The rs1344555 variant was significantly associated with progression-free survival (PFS) and OS of everolimus-treated metastatic ccRCC: CC versus CT/TT genotypes PFS, hazard ratio (HR) = 1.96, 95% CI = 1.01&#x2013;3.81, <italic>p</italic> = 0.047; and OS HR = 2.09, 95% CI = 1.08&#x2013;4.08, <italic>p =</italic> 0.029 (<xref ref-type="fig" rid="cancers-12-00300-f004">Figure 4</xref>A). In this setting, the T allele was associated with a higher probability of disease progression and patient death and, in the original lung study, was associated with inferior organ function [<xref ref-type="bibr" rid="B33-cancers-12-00300">33</xref>]. A significant association between the genotypes of rs1344555 and the percentage of AKT1-positive metastatic ccRCC cells was revealed (Kruskal&#x2013;Wallis test <italic>p</italic> = 0.018; <xref ref-type="fig" rid="cancers-12-00300-f004">Figure 4</xref>B). Notably, a TCGA-genotyped variant correlated with rs1344555, rs11718241 (<italic>r<sup>2</sup></italic> = 0.94 in European populations), proved to be an expression quantitative locus (eQTL) for <italic>EVI1</italic> in the total KIRC cohort and in the CC-e.3 subtype (<xref ref-type="fig" rid="cancers-12-00300-f004">Figure 4</xref>C). Based on 1000 Genome Project data, the minor alleles of both variants (T) were correlated, and therefore one increased the risk of progression (rs1344555-T, <xref ref-type="fig" rid="cancers-12-00300-f004">Figure 4</xref>A) while the other was associated with a relatively higher level of expression of <italic>EVI1</italic> (rs11718241-T, <xref ref-type="fig" rid="cancers-12-00300-f004">Figure 4</xref>C).</p>
+        <p>The rs16853722 variant did not show significant associations, while analyses of rs75316749 raised the possibility of associations with metastatic ccRCC OS, although the number of informative cases was too small for them to be statistically significant. Five rs75316749 heterozygous (AG) individuals were identified in the metastatic ccRCC cohort, with an estimated HR of 0.30 (log-rank <italic>p =</italic> 0.039; <xref ref-type="fig" rid="cancers-12-00300-f004">Figure 4</xref>C). In this setting, the minor allele G, which has previously been linked to increased lung and breast cancer risk [<xref ref-type="bibr" rid="B36-cancers-12-00300">36</xref>], may be associated with a lower probability of death.</p>
+      </sec>
+    </sec>
+    <sec id="sec3-cancers-12-00300" sec-type="discussion">
+      <title>3. Discussion</title>
+      <p>This study proposes that evaluation of EVI1 protein or gene expression, and of specific <italic>EVI1</italic> genetic variants, may help improve estimates of prognosis and of benefit from everolimus-based therapy in ccRCC. The connection with cancer progression is supported by immunohistochemical studies of tumors with advanced disease features, and by analyses of gene expression profiles in primary tumors from TCGA. The results are coherent with, and expand on, the proposed oncogenic role of EVI1 in other solid cancers [<xref ref-type="bibr" rid="B5-cancers-12-00300">5</xref>,<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>,<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>,<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>,<xref ref-type="bibr" rid="B9-cancers-12-00300">9</xref>,<xref ref-type="bibr" rid="B10-cancers-12-00300">10</xref>,<xref ref-type="bibr" rid="B11-cancers-12-00300">11</xref>,<xref ref-type="bibr" rid="B12-cancers-12-00300">12</xref>,<xref ref-type="bibr" rid="B13-cancers-12-00300">13</xref>]. However, its impact in ccRCC may be limited to tumors corresponding to the CC-e.3 subtype.</p>
+      <p>The influence of common genetic variation on everolimus-based therapy is based on the results of variants previously associated with lung function [<xref ref-type="bibr" rid="B34-cancers-12-00300">34</xref>,<xref ref-type="bibr" rid="B35-cancers-12-00300">35</xref>] and with pleiotropy, including cancer susceptibility [<xref ref-type="bibr" rid="B36-cancers-12-00300">36</xref>]. Thus, the depicted genetic variants could also be relevant for predicting progression and/or therapeutic response in other cancer settings. Consistent with the observed genetic associations in metastatic ccRCC, ectopic overexpression of oncogenic EVI1<sup>Del190&#x2013;515</sup> confers resistance to everolimus of RCC cell lines. In addition, the resistant phenotype is associated with enhanced pS6 in two models, which builds on previous AKT-mTOR signaling observations in breast and colorectal cancer cells [<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>,<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>], and with leukemia [<xref ref-type="bibr" rid="B19-cancers-12-00300">19</xref>].</p>
+      <p>The oncogenic transcriptional program mediated by EVI1 in ccRCC and the potential differential role of <italic>EVI1</italic> isoforms remain to be determined. We may speculate that oncogenic EVI1 in ccRCC is linked to the acquisition of stem cell-like and/or EMT features, as described in other cancer types [<xref ref-type="bibr" rid="B5-cancers-12-00300">5</xref>,<xref ref-type="bibr" rid="B6-cancers-12-00300">6</xref>,<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>,<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>,<xref ref-type="bibr" rid="B9-cancers-12-00300">9</xref>,<xref ref-type="bibr" rid="B10-cancers-12-00300">10</xref>]. It is of particular note that EMT has also been associated with resistance to allosteric mTOR inhibition [<xref ref-type="bibr" rid="B37-cancers-12-00300">37</xref>,<xref ref-type="bibr" rid="B38-cancers-12-00300">38</xref>]. The precise causal variants linked to the observed genetic associations are also unknown. Based on data from other cancer models and from eQTL observations, associated risk alleles might increase <italic>EVI1</italic> expression and thereby enhance its function and activate the corresponding oncogenic transcriptional program [<xref ref-type="bibr" rid="B7-cancers-12-00300">7</xref>,<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>,<xref ref-type="bibr" rid="B15-cancers-12-00300">15</xref>]. Collectively, the prognostic and therapeutic predictive associations indicate that targeting EVI1 could improve the cure of advanced ccRCC. This may be accomplished by targeting known interactors of EVI1 involved in epigenetic and transcriptional regulation [<xref ref-type="bibr" rid="B17-cancers-12-00300">17</xref>], or by targeting metabolic dependences centered on the creatine kinase pathway [<xref ref-type="bibr" rid="B39-cancers-12-00300">39</xref>] and L-asparaginase function [<xref ref-type="bibr" rid="B40-cancers-12-00300">40</xref>]. These strategies could be combined with allosteric mTOR inhibition; however, while rapalogs do not benefit all patients and do not always produce durable responses, immunotherapy with checkpoint inhibitors is becoming a major choice for the treatment of ccRCC [<xref ref-type="bibr" rid="B41-cancers-12-00300">41</xref>]. Interestingly, simultaneously targeting TGF-&#x3B2; and checkpoint inhibitors confers marked inhibition of tumorigenesis in preclinical models [<xref ref-type="bibr" rid="B42-cancers-12-00300">42</xref>,<xref ref-type="bibr" rid="B43-cancers-12-00300">43</xref>,<xref ref-type="bibr" rid="B44-cancers-12-00300">44</xref>]. Given that oncogenic EVI1 modulates TGF-&#x3B2; signaling [<xref ref-type="bibr" rid="B24-cancers-12-00300">24</xref>,<xref ref-type="bibr" rid="B25-cancers-12-00300">25</xref>], ccRCC cases with EVI1 over-expression might show differential benefit from immunotherapy, and further studies may warranted to assess the potential benefit of targeting EVI1.</p>
+    </sec>
+    <sec id="sec4-cancers-12-00300">
+      <title>4. Materials and Methods</title>
+      <sec id="sec4dot1-cancers-12-00300" sec-type="subjects">
+        <title>4.1. Patients</title>
+        <p>A cohort of 39 ccRCC cases (<xref ref-type="app" rid="app1-cancers-12-00300">Supplementary Table S1</xref>) collected at the Cruces University Hospital (Barakaldo, Spain) were analyzed for EVI1 expression by immunohistochemical assays. The cohort comprised 9 women and 30 men, who had a median age at diagnosis of 66 years. Their pathological data included tumor grade, diameter, stage, necrosis, sarcomatoid features, lymph nodes affected (yes/no), existence of metastases (yes/no), months of follow-up, and dead or alive status. The institutional ethics committee approved the study and all patients provided informed consent for the study (CEIC-PI2016096).</p>
+        <p>The cohort of patients genotyped for selected genetic variants corresponded to a prospective, single-arm phase II study of metastatic RCC (93.1% ccRCC) treated with everolimus [<xref ref-type="bibr" rid="B45-cancers-12-00300">45</xref>] (<xref ref-type="app" rid="app1-cancers-12-00300">Supplementary Table S3</xref>). All enrolled patients received no more than two anti-angiogenic therapies before receiving everolimus. There were 19 women and 39 men, who had a median age at diagnosis of 60 years. Immunohistochemical results of AKT1 positivity were based on the H-score method. The ethics committee of the Military Institute of Medicine (Warsaw, Poland) approved the study and all patients provided informed consent for the study of genetic variants.</p>
+      </sec>
+      <sec id="sec4dot2-cancers-12-00300">
+        <title>4.2. Immunohistochemistry Assays</title>
+        <p>The assays were performed on serial paraffin sections of a tissue microarray, applying a protocol including heat-induced epitope retrieval (35 min in a pressure cooker), citrate buffer, 1:50 dilution of anti-EVI1 delta 190&#x2013;515 antibody (Novus Biologicals, Centennial, CO, USA), and Dako liquid DAB (diaminobenzidine) plus substrate chromogen system (Agilent, Santa Clara, CA, USA). In all experiments, analogous samples were processed without incubation with the primary antibody; no immunostaining was observed in any of these assays. Results were scored blind with respect to clinical information. Molecular analyses were carried out as part of the ProCURE research program, at the Catalan Institute of Oncology, IDIBELL (Barcelona, Spain), and followed the reporting recommendations for tumor marker prognostic studies [<xref ref-type="bibr" rid="B46-cancers-12-00300">46</xref>].</p>
+      </sec>
+      <sec id="sec4dot3-cancers-12-00300">
+        <title>4.3. Genetic Analyses</title>
+        <p>DNA was extracted from primary tumors. Samples were lysed using the PrepFiler&#x2122; buffer, and substrate was removed using LySep columns. The lysates were loaded onto an AutoMate Express instrument for DNA extraction. Quantitative and qualitative assays of the resulting DNA were carried out using Quantifiler Duo on the Applied Biosystems Real-Time PCR 7500 system. Genotyping was performed using TaqMan assays (Applied Biosystems, Foster City, CA, USA) in ABgene&#x2019;s Universal Master Mix (Thermo Scientific, Waltham, MA, USA). Replicate samples were assayed, with a template (buffer only) used as negative control. Duplicates consisting of DNA extracted from the same material, but at different times, were analyzed to assess the concordance and quality of the genotyping.</p>
+      </sec>
+      <sec id="sec4dot4-cancers-12-00300">
+        <title>4.4. Statistical Analyses</title>
+        <p>Logistic regressions including age and gender as covariates, and 2 &#xD7; 2 contingency Fisher&#x2019;s exact test were used to evaluate immunohistochemical results from tumor and thrombi. The association with survival was assessed by univariate and multivariate (including age, gender, and tumor stage) Cox regression analyses using the survival package in R software. For the genetic studies, the primary end point was PFS, defined as the time elapsed between the date of entry into the study and the date of disease progression or of the most recent follow-up. Secondary end points were OS, the probability of PFS for at least six months, objective response rate, and toxicity, determined by adverse events and laboratory measures. Statistical analyses were performed using STATA (10.0 STATA Corp.) and R software.</p>
+      </sec>
+      <sec id="sec4dot5-cancers-12-00300">
+        <title>4.5. TCGA Data Analyses</title>
+        <p>Gene expression, genomic copy number, genotype, and clinical data were obtained from TCGA (data access #11689) and from the corresponding publications [<xref ref-type="bibr" rid="B30-cancers-12-00300">30</xref>,<xref ref-type="bibr" rid="B47-cancers-12-00300">47</xref>]. The genotype data corresponded to TCGA results using the Affymetrix Genome-Wide Human SNP Array 6.0 (SNP6). The GSEA tool was used with default parameters in the v4.0.3 Java desktop application [<xref ref-type="bibr" rid="B48-cancers-12-00300">48</xref>], and the pre-ranked input corresponded to the Pearson&#x2019;s correlation coefficients computed between <italic>EVI1</italic> and any other gene analyzed by RNAseq (FPKM log2 scaled).</p>
+      </sec>
+      <sec id="sec4dot6-cancers-12-00300">
+        <title>4.6. Cellular Assays</title>
+        <p>The 786-O, A498 and ACHN cell lines were cultured under standard conditions and confirmed to be free of <italic>Mycoplasma</italic> contamination. <italic>EVI1</italic> full-length and Del190&#x2013;515 were ectopically overexpressed using a pEGFP-C1 construct [<xref ref-type="bibr" rid="B15-cancers-12-00300">15</xref>]. Cells were transfected with GFP or GFP-EVI1-encoding vectors, sorted for GFP positivity at 24 hours and then plated for viability assays. The viability studies were based on colorimetric assays using a tetrazolium compound (MTT) and included exposure to different concentrations of everolimus (Selleck Chemicals, Houston, TX, USA). </p>
+      </sec>
+      <sec id="sec4dot7-cancers-12-00300">
+        <title>4.7. Western Blot and Antibodies</title>
+        <p>To analyze extracts, cells were lysed in RIPA buffer, lysates were clarified twice by centrifugation, and protein concentrations were measured using the Bradford method (Bio-Rad, Hercules, CA, USA). Lysates were resolved in SDS-PAGE electrophoresis gels and transferred to Immobilon-P (Merck Millipore, Burlington, MA, USA) or PVDF membranes (Sigma-Aldrich, St. Luis, MO, USA). Target proteins were identified by detection of horseradish peroxidase-labeled antibody complexes with chemiluminescence using the ECL Western Blotting Detection Kit (GE Healthcare, Chicago, IL, USA). The antibodies were anti-total and anti-phospho-Ser473 AKT1 (#9272 and #9271, respectively, Cell Signaling Technology, Danvers, MA, USA), anti-total and anti-phospho-Ser235/236-ribosomal S6 protein (#SC-74459, Santa Cruz Biotechnology, Dallas, TX, USA; and #4858, Cell Signaling Technology, respectively), and anti-VCL (V9131, Sigma-Aldrich).</p>
+      </sec>
+    </sec>
+    <sec id="sec5-cancers-12-00300" sec-type="conclusions">
+      <title>5. Conclusions</title>
+      <p>High levels of expression of <italic>EVI1</italic> in ccRCC are associated with features of cancer progression and invasion, and with poor patient outcome in the CC-e.3 subtype. Common genetic variants in <italic>EVI1</italic> are associated with the response to everolimus of metastatic ccRCC. Determination of EVI1 protein or gene expression, and of defined <italic>EVI1</italic> genetic variants could improve estimates of ccRCC patient outcome and benefit from everolimus in the clinical scenario.</p>
+    </sec>
+  </body>
+  <back>
+    <app-group>
+      <app id="app1-cancers-12-00300">
+        <title>Supplementary Materials</title>
+        <p>The following are available online: <uri>https://www.mdpi.com/2072-6694/12/2/300/s1</uri>. Table S1, Clinical and histopathological features of the retrospective ccRCC cohort used for immunohistochemical studies of EVI1; Table S2, Curated gene sets (GSEA MSigDB C2 set) positively co-expressed with <italic>EVI1</italic> in CC.e-3 tumors; and Table S3, Main clinical and histopathological characteristics of metastatic patients treated with everolimus, used for genetic analyses. Figure S1, The whole western blots.</p>
+		<supplementary-material id="cancers-12-00300-s001" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cancers-12-00300-s001.zip"></supplementary-material>
+      </app>
+    </app-group>
+    <notes>
+      <title>Author Contributions</title>
+      <p>Conceptualization, M.A.P.; methodology, L.P., L.B., F.M., J.I.L., and M.A.P.; formal analysis, L.P., L.B., F.M., R.E., and M.A.P.; investigation, L.B., M.J., O.C., J.I.L., and M.A.P.; data curation, L.P., L.B., F.M., C.H.-O., M.G.-V., M.J, and G.R.d.G.; writing of original draft, M.A.P.; review and editing of manuscript, L.P., L.B., J.I.L., and M.A.P.; supervision, M.A.P.; funding acquisition, M.A.P. All authors have read and agreed to the published version of the manuscript.</p>
+    </notes>
+    <notes>
+      <title>Funding</title>
+      <p>This research was funded by: Generalitat de Catalunya grant SGR 2017-449; Spanish Ministry of Health ISCIII grants PI15/00854 and PI18/01029; and Telemaraton 2014 &#x201C;Todos Somos Raros, Todos Somos Unicos&#x201D; grant P35. This work was also supported by the CERCA Programme of the Generalitat de Catalunya and the European Regional Development Fund (ERDF/FEDER, &#x201C;A way to make Europe&#x201D;).</p>
+    </notes>
+    <ack>
+      <title>Acknowledgments</title>
+      <p>We wish to thank Penny Soucy and Jacques Simard for their help with annotations of the genetic variants, and Roser Pons and Jordi Senserrich for advice about cancer cell lines. We would also like to thank all the participants for their contribution to the study, and the corresponding laboratory staff for their helpful comments. The results presented here are partly based on data generated by the TCGA Research Network (<uri>https://www.cancer.gov/tcga</uri>), and we would like to express our gratitude to the TCGA consortia and their coordinators for providing the data and clinical information used in this study.</p>
+    </ack>
+    <notes notes-type="COI-statement">
+      <title>Conflicts of Interest</title>
+      <p>O.C. and M.A.P. are recipients of an unrestricted grant from Roche Pharma to finance the ProCURE research program, which was paid to the Catalan Institute of Oncology (2017).</p>
+    </notes>
+    <ref-list>
+      <title>References</title>
+      <ref id="B1-cancers-12-00300">
+        <label>1.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mucenski</surname>
+              <given-names>M.L.</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>B.A.</given-names>
+            </name>
+            <name>
+              <surname>Ihle</surname>
+              <given-names>J.N.</given-names>
+            </name>
+            <name>
+              <surname>Hartley</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <name>
+              <surname>Morse</surname>
+              <given-names>H.C.</given-names>
+            </name>
+            <name>
+              <surname>Jenkins</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Copeland</surname>
+              <given-names>N.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Identification of a common ecotropic viral integration site, Evi-1, in the DNA of AKXD murine myeloid tumors</article-title>
+          <source>Mol. Cell. Biol.</source>
+          <year>1988</year>
+          <volume>8</volume>
+          <fpage>301</fpage>
+          <lpage>308</lpage>
+          <pub-id pub-id-type="doi">10.1128/MCB.8.1.301</pub-id>
+          <pub-id pub-id-type="pmid">2827004</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B2-cancers-12-00300">
+        <label>2.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kataoka</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ecotropic viral integration site 1, stem cell self-renewal and leukemogenesis</article-title>
+          <source>Cancer Sci.</source>
+          <year>2012</year>
+          <volume>103</volume>
+          <fpage>1371</fpage>
+          <lpage>1377</lpage>
+          <pub-id pub-id-type="doi">10.1111/j.1349-7006.2012.02303.x</pub-id>
+          <pub-id pub-id-type="pmid">22494115</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B3-cancers-12-00300">
+        <label>3.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barjesteh van Waalwijk van Doorn-Khosrovani</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Erpelinck</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>van Putten</surname>
+              <given-names>W.L.J.</given-names>
+            </name>
+            <name>
+              <surname>Valk</surname>
+              <given-names>P.J.M.</given-names>
+            </name>
+            <name>
+              <surname>van der Poel-van de Luytgaarde</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hack</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Slater</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Smit</surname>
+              <given-names>E.M.E.</given-names>
+            </name>
+            <name>
+              <surname>Beverloo</surname>
+              <given-names>H.B.</given-names>
+            </name>
+            <name>
+              <surname>Verhoef</surname>
+              <given-names>G.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>High <italic>EVI1</italic> expression predicts poor survival in acute myeloid leukemia: a study of 319 de novo AML patients</article-title>
+          <source>Blood</source>
+          <year>2003</year>
+          <volume>101</volume>
+          <fpage>837</fpage>
+          <lpage>845</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2002-05-1459</pub-id>
+          <pub-id pub-id-type="pmid">12393383</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B4-cancers-12-00300">
+        <label>4.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Balgobind</surname>
+              <given-names>B.V.</given-names>
+            </name>
+            <name>
+              <surname>Lugthart</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hollink</surname>
+              <given-names>I.H.</given-names>
+            </name>
+            <name>
+              <surname>Arentsen-Peters</surname>
+              <given-names>S.T.J.C.M.</given-names>
+            </name>
+            <name>
+              <surname>van Wering</surname>
+              <given-names>E.R.</given-names>
+            </name>
+            <name>
+              <surname>de Graaf</surname>
+              <given-names>S.S.N.</given-names>
+            </name>
+            <name>
+              <surname>Reinhardt</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Creutzig</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Kaspers</surname>
+              <given-names>G.J.L.</given-names>
+            </name>
+            <name>
+              <surname>de Bont</surname>
+              <given-names>E.S.J.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title><italic>EVI1</italic> overexpression in distinct subtypes of pediatric acute myeloid leukemia</article-title>
+          <source>Leukemia</source>
+          <year>2010</year>
+          <volume>24</volume>
+          <fpage>942</fpage>
+          <lpage>949</lpage>
+          <pub-id pub-id-type="doi">10.1038/leu.2010.47</pub-id>
+          <pub-id pub-id-type="pmid">20357826</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B5-cancers-12-00300">
+        <label>5.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sayadi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jeyakani</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Seet</surname>
+              <given-names>S.H.</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>C.-L.</given-names>
+            </name>
+            <name>
+              <surname>Bourque</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Bard</surname>
+              <given-names>F.A.</given-names>
+            </name>
+            <name>
+              <surname>Jenkins</surname>
+              <given-names>N.A.</given-names>
+            </name>
+            <name>
+              <surname>Copeland</surname>
+              <given-names>N.G.</given-names>
+            </name>
+            <name>
+              <surname>Bard-Chapeau</surname>
+              <given-names>E.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Functional features of EVI1 and EVI1&#x394;324 isoforms of <italic>MECOM</italic> gene in genome-wide transcription regulation and oncogenicity</article-title>
+          <source>Oncogene</source>
+          <year>2016</year>
+          <volume>35</volume>
+          <fpage>2311</fpage>
+          <lpage>2321</lpage>
+          <pub-id pub-id-type="doi">10.1038/onc.2015.286</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B6-cancers-12-00300">
+        <label>6.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Liu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Ko</surname>
+              <given-names>T.C.</given-names>
+            </name>
+            <name>
+              <surname>Fields</surname>
+              <given-names>A.P.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>E.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evi1 is a survival factor which conveys resistance to both TGFb- and taxol-mediated cell death via PI3K/AKT</article-title>
+          <source>Oncogene</source>
+          <year>2006</year>
+          <volume>25</volume>
+          <fpage>3565</fpage>
+          <lpage>3575</lpage>
+          <pub-id pub-id-type="doi">10.1038/sj.onc.1209403</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B7-cancers-12-00300">
+        <label>7.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mateo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Arenas</surname>
+              <given-names>E.J.</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Serra-Musach</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>de Garibay</surname>
+              <given-names>G.R.</given-names>
+            </name>
+            <name>
+              <surname>Boni</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Maicas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Du</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Iorio</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Herranz-Ors</surname>
+              <given-names>C.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Stem cell-like transcriptional reprogramming mediates metastatic resistance to mTOR inhibition</article-title>
+          <source>Oncogene</source>
+          <year>2017</year>
+          <volume>36</volume>
+          <fpage>2737</fpage>
+          <lpage>2749</lpage>
+          <pub-id pub-id-type="doi">10.1038/onc.2016.427</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B8-cancers-12-00300">
+        <label>8.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Schaefer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Konantz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Braun</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Varga</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Paczulla</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Reich</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Jacob</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Perner</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Moch</surname>
+              <given-names>H.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prominent oncogenic roles of EVI1 in breast carcinoma</article-title>
+          <source>Cancer Res.</source>
+          <year>2017</year>
+          <volume>77</volume>
+          <fpage>2148</fpage>
+          <lpage>2160</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-16-0593</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B9-cancers-12-00300">
+        <label>9.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Tanaka</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Suzuki</surname>
+              <given-names>H.I.</given-names>
+            </name>
+            <name>
+              <surname>Shibahara</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kunita</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Isagawa</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Yoshimi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Miyazono</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Aburatani</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Ishikawa</surname>
+              <given-names>S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>EVI1 oncogene promotes KRAS pathway through suppression of microRNA-96 in pancreatic carcinogenesis</article-title>
+          <source>Oncogene</source>
+          <year>2014</year>
+          <volume>33</volume>
+          <fpage>2454</fpage>
+          <lpage>2463</lpage>
+          <pub-id pub-id-type="doi">10.1038/onc.2013.204</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B10-cancers-12-00300">
+        <label>10.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Queisser</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hagedorn</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Schaefer</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Konantz</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Alavi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Deng</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>von M&#xE4;ssenhausen</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kristiansen</surname>
+              <given-names>G.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Ecotropic viral integration site 1, a novel oncogene in prostate cancer</article-title>
+          <source>Oncogene</source>
+          <year>2017</year>
+          <volume>36</volume>
+          <fpage>1573</fpage>
+          <lpage>1584</lpage>
+          <pub-id pub-id-type="doi">10.1038/onc.2016.325</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B11-cancers-12-00300">
+        <label>11.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Choi</surname>
+              <given-names>Y.-W.</given-names>
+            </name>
+            <name>
+              <surname>Choi</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Zheng</surname>
+              <given-names>L.T.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>Y.J.</given-names>
+            </name>
+            <name>
+              <surname>Yoon</surname>
+              <given-names>H.K.</given-names>
+            </name>
+            <name>
+              <surname>Kim</surname>
+              <given-names>Y.H.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.-P.</given-names>
+            </name>
+            <name>
+              <surname>Lim</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparative genomic hybridization array analysis and real time PCR reveals genomic alterations in squamous cell carcinomas of the lung</article-title>
+          <source>Lung Cancer.</source>
+          <year>2007</year>
+          <volume>55</volume>
+          <fpage>43</fpage>
+          <lpage>51</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.lungcan.2006.09.018</pub-id>
+          <pub-id pub-id-type="pmid">17109992</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B12-cancers-12-00300">
+        <label>12.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Starr</surname>
+              <given-names>T.K.</given-names>
+            </name>
+            <name>
+              <surname>Allaei</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Silverstein</surname>
+              <given-names>K.A.T.</given-names>
+            </name>
+            <name>
+              <surname>Staggs</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Sarver</surname>
+              <given-names>A.L.</given-names>
+            </name>
+            <name>
+              <surname>Bergemann</surname>
+              <given-names>T.L.</given-names>
+            </name>
+            <name>
+              <surname>Gupta</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Sullivan</surname>
+              <given-names>M.G.</given-names>
+            </name>
+            <name>
+              <surname>Matise</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Dupuy</surname>
+              <given-names>A.J.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>A transposon-based genetic screen in mice identifies genes altered in colorectal cancer</article-title>
+          <source>Science</source>
+          <year>2009</year>
+          <volume>323</volume>
+          <fpage>1747</fpage>
+          <lpage>1750</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.1163040</pub-id>
+          <pub-id pub-id-type="pmid">19251594</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B13-cancers-12-00300">
+        <label>13.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>He</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Ma</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Juang</surname>
+              <given-names>Y.</given-names>
+            </name>
+          </person-group>
+          <article-title>Ecotropic virus integration-1 and calreticulin as novel prognostic markers in triple-negative breast cancer: A retrospective cohort study</article-title>
+          <source>Oncol. Lett.</source>
+          <year>2019</year>
+          <volume>18</volume>
+          <fpage>1847</fpage>
+          <lpage>1855</lpage>
+          <pub-id pub-id-type="doi">10.3892/ol.2019.10472</pub-id>
+          <pub-id pub-id-type="pmid">31423253</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B14-cancers-12-00300">
+        <label>14.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nanjundan</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nakayama</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Cheng</surname>
+              <given-names>K.W.</given-names>
+            </name>
+            <name>
+              <surname>Lahad</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kuo</surname>
+              <given-names>W.-L.</given-names>
+            </name>
+            <name>
+              <surname>Smith-McCune</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Fishman</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Gray</surname>
+              <given-names>J.W.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Amplification of <italic>MDS1/EVI1</italic> and <italic>EVI1</italic>, located in the 3q26.2 amplicon, is associated with favorable patient prognosis in ovarian cancer</article-title>
+          <source>Cancer Res.</source>
+          <year>2007</year>
+          <volume>67</volume>
+          <fpage>3074</fpage>
+          <lpage>3084</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-06-2366</pub-id>
+          <pub-id pub-id-type="pmid">17409414</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B15-cancers-12-00300">
+        <label>15.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dutta</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bui</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Bauckman</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Keyomarsi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mills</surname>
+              <given-names>G.B.</given-names>
+            </name>
+            <name>
+              <surname>Nanjundan</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>EVI1</italic> splice variants modulate functional responses in ovarian cancer cells</article-title>
+          <source>Mol. Oncol.</source>
+          <year>2013</year>
+          <volume>7</volume>
+          <fpage>647</fpage>
+          <lpage>668</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.molonc.2013.02.008</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B16-cancers-12-00300">
+        <label>16.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bard-Chapeau</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Gunaratne</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Chua</surname>
+              <given-names>B.Q.</given-names>
+            </name>
+            <name>
+              <surname>Muller</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Bard</surname>
+              <given-names>F.A.</given-names>
+            </name>
+            <name>
+              <surname>Blackstock</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Copeland</surname>
+              <given-names>N.G.</given-names>
+            </name>
+            <name>
+              <surname>Jenkins</surname>
+              <given-names>N.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>EVI1 oncoprotein interacts with a large and complex network of proteins and integrates signals through protein phosphorylation</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2013</year>
+          <volume>110</volume>
+          <fpage>E2885</fpage>
+          <lpage>E2894</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.1309310110</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B17-cancers-12-00300">
+        <label>17.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshimi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>Evi1 forms a bridge between the epigenetic machinery and signaling pathways</article-title>
+          <source>Oncotarget</source>
+          <year>2011</year>
+          <volume>2</volume>
+          <fpage>575</fpage>
+          <lpage>586</lpage>
+          <pub-id pub-id-type="doi">10.18632/oncotarget.304</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B18-cancers-12-00300">
+        <label>18.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Paredes</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Schneider</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Stevens</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>White</surname>
+              <given-names>D.J.</given-names>
+            </name>
+            <name>
+              <surname>Williamson</surname>
+              <given-names>A.J.K.</given-names>
+            </name>
+            <name>
+              <surname>Muter</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Pearson</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kelly</surname>
+              <given-names>J.R.</given-names>
+            </name>
+            <name>
+              <surname>Connors</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wiseman</surname>
+              <given-names>D.H.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>EVI1 carboxy-terminal phosphorylation is ATM-mediated and sustains transcriptional modulation and self-renewal via enhanced CtBP1 association</article-title>
+          <source>Nucleic Acids Res.</source>
+          <year>2018</year>
+          <volume>46</volume>
+          <fpage>7662</fpage>
+          <lpage>7674</lpage>
+          <pub-id pub-id-type="doi">10.1093/nar/gky536</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B19-cancers-12-00300">
+        <label>19.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Yoshimi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Goyama</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe-Okochi</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Yoshiki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nannya</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Nitta</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Arai</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Sato</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Shimabe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Nakagawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Evi1 represses <italic>PTEN</italic> expression and activates PI3K/AKT/mTOR via interactions with polycomb proteins</article-title>
+          <source>Blood</source>
+          <year>2011</year>
+          <volume>117</volume>
+          <fpage>3617</fpage>
+          <lpage>3628</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2009-12-261602</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B20-cancers-12-00300">
+        <label>20.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lugthart</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Figueroa</surname>
+              <given-names>M.E.</given-names>
+            </name>
+            <name>
+              <surname>Bindels</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Skrabanek</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Valk</surname>
+              <given-names>P.J.M.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Meyer</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Erpelinck-Verschueren</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Greally</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>L&#xF6;wenberg</surname>
+              <given-names>B.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Aberrant DNA hypermethylation signature in acute myeloid leukemia directed by EVI1</article-title>
+          <source>Blood</source>
+          <year>2011</year>
+          <volume>117</volume>
+          <fpage>234</fpage>
+          <lpage>241</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood-2010-04-281337</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B21-cancers-12-00300">
+        <label>21.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cattaneo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Nucifora</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>EVI1 recruits the histone methyltransferase SUV39H1 for transcription repression</article-title>
+          <source>J. Cell. Biochem.</source>
+          <year>2008</year>
+          <volume>105</volume>
+          <fpage>344</fpage>
+          <lpage>352</lpage>
+          <pub-id pub-id-type="doi">10.1002/jcb.21869</pub-id>
+          <pub-id pub-id-type="pmid">18655152</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B22-cancers-12-00300">
+        <label>22.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Goyama</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nitta</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Yoshino</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Kako</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Watanabe-Okochi</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Shimabe</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Imai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Takahashi</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>EVI-1 interacts with histone methyltransferases SUV39H1 and G9a for transcriptional repression and bone marrow immortalization</article-title>
+          <source>Leukemia</source>
+          <year>2010</year>
+          <volume>24</volume>
+          <fpage>81</fpage>
+          <lpage>88</lpage>
+          <pub-id pub-id-type="doi">10.1038/leu.2009.202</pub-id>
+          <pub-id pub-id-type="pmid">19776757</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B23-cancers-12-00300">
+        <label>23.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Spensberger</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Delwel</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title>A novel interaction between the proto-oncogene Evi1 and histone methyltransferases, SUV39H1 and G9a</article-title>
+          <source>FEBS Lett.</source>
+          <year>2008</year>
+          <volume>582</volume>
+          <fpage>2761</fpage>
+          <lpage>2767</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.febslet.2008.06.056</pub-id>
+          <pub-id pub-id-type="pmid">18619962</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B24-cancers-12-00300">
+        <label>24.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mitani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Irie</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Matsuyama</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Takahashi</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Chiba</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Yazaki</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Matsumoto</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hirai</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The oncoprotein Evi-1 represses TGF-b signalling by inhibiting Smad3</article-title>
+          <source>Nature</source>
+          <year>1998</year>
+          <volume>394</volume>
+          <fpage>92</fpage>
+          <lpage>96</lpage>
+          <pub-id pub-id-type="doi">10.1038/27945</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B25-cancers-12-00300">
+        <label>25.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Izutsu</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kurokawa</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Imai</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Maki</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Mitani</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Hirai</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>The corepressor CtBP interacts with Evi-1 to repress transforming growth factor beta signaling</article-title>
+          <source>Blood</source>
+          <year>2001</year>
+          <volume>97</volume>
+          <fpage>2815</fpage>
+          <lpage>2822</lpage>
+          <pub-id pub-id-type="doi">10.1182/blood.V97.9.2815</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B26-cancers-12-00300">
+        <label>26.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sabatini</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>mTOR and cancer: insights into a complex relationship</article-title>
+          <source>Nat. Rev. Cancer</source>
+          <year>2006</year>
+          <volume>6</volume>
+          <fpage>729</fpage>
+          <lpage>734</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrc1974</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B27-cancers-12-00300">
+        <label>27.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Keefe</surname>
+              <given-names>S.M.</given-names>
+            </name>
+            <name>
+              <surname>Nathanson</surname>
+              <given-names>K.L.</given-names>
+            </name>
+            <name>
+              <surname>Rathmell</surname>
+              <given-names>W.K.</given-names>
+            </name>
+          </person-group>
+          <article-title>The molecular biology of renal cell carcinoma</article-title>
+          <source>Semin. Oncol.</source>
+          <year>2013</year>
+          <volume>40</volume>
+          <fpage>421</fpage>
+          <lpage>428</lpage>
+          <pub-id pub-id-type="doi">10.1053/j.seminoncol.2013.05.006</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B28-cancers-12-00300">
+        <label>28.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Motzer</surname>
+              <given-names>R.J.</given-names>
+            </name>
+            <name>
+              <surname>Escudier</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Oudard</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Hutson</surname>
+              <given-names>T.E.</given-names>
+            </name>
+            <name>
+              <surname>Porta</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Bracarda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Gr&#xFC;nwald</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Thompson</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Figlin</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Hollaender</surname>
+              <given-names>N.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Efficacy of everolimus in advanced renal cell carcinoma: a double-blind, randomised, placebo-controlled phase III trial</article-title>
+          <source>Lancet</source>
+          <year>2008</year>
+          <volume>372</volume>
+          <fpage>449</fpage>
+          <lpage>456</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0140-6736(08)61039-9</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B29-cancers-12-00300">
+        <label>29.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wagner</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Patard</surname>
+              <given-names>J.-J.</given-names>
+            </name>
+            <name>
+              <surname>M&#xE9;jean</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Bensalah</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Verhoest</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zigeuner</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Ficarra</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Tostain</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Mulders</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Chautard</surname>
+              <given-names>D.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Prognostic value of renal vein and inferior vena cava involvement in renal cell carcinoma</article-title>
+          <source>Eur. Urol.</source>
+          <year>2009</year>
+          <volume>55</volume>
+          <fpage>452</fpage>
+          <lpage>459</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.eururo.2008.07.053</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B30-cancers-12-00300">
+        <label>30.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <collab>The Cancer Genome Atlas Research Network</collab>
+          </person-group>
+          <article-title>Comprehensive molecular characterization of clear cell renal cell carcinoma</article-title>
+          <source>Nature</source>
+          <year>2013</year>
+          <volume>499</volume>
+          <fpage>43</fpage>
+          <lpage>49</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature12222</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B31-cancers-12-00300">
+        <label>31.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Escudier</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Molinie</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Bracarda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Maroto</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Szczylik</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Nathan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Negrier</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Weiss</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Porta</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Gr&#xFC;nwald</surname>
+              <given-names>V.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Open-label phase 2 trial of first-line everolimus monotherapy in patients with papillary metastatic renal cell carcinoma: RAPTOR final analysis</article-title>
+          <source>Eur. J. Cancer. 1990</source>
+          <year>2016</year>
+          <volume>69</volume>
+          <fpage>226</fpage>
+          <lpage>235</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ejca.2016.08.004</pub-id>
+          <pub-id pub-id-type="pmid">27680407</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B32-cancers-12-00300">
+        <label>32.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zoncu</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Efeyan</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Sabatini</surname>
+              <given-names>D.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>mTOR: from growth signal integration to cancer, diabetes and ageing</article-title>
+          <source>Nat. Rev. Mol. Cell Biol.</source>
+          <year>2011</year>
+          <volume>12</volume>
+          <fpage>21</fpage>
+          <lpage>35</lpage>
+          <pub-id pub-id-type="doi">10.1038/nrm3025</pub-id>
+          <pub-id pub-id-type="pmid">21157483</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B33-cancers-12-00300">
+        <label>33.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Soler Artigas</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Loth</surname>
+              <given-names>D.W.</given-names>
+            </name>
+            <name>
+              <surname>Wain</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Gharib</surname>
+              <given-names>S.A.</given-names>
+            </name>
+            <name>
+              <surname>Obeidat</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Tang</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Zhai</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Zhao</surname>
+              <given-names>J.H.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Huffman</surname>
+              <given-names>J.E.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Genome-wide association and large-scale follow up identifies 16 new loci influencing lung function</article-title>
+          <source>Nat. Genet.</source>
+          <year>2011</year>
+          <volume>43</volume>
+          <fpage>1082</fpage>
+          <lpage>1090</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.941</pub-id>
+          <pub-id pub-id-type="pmid">21946350</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B34-cancers-12-00300">
+        <label>34.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Okada</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sim</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Go</surname>
+              <given-names>M.J.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>J.-Y.</given-names>
+            </name>
+            <name>
+              <surname>Gu</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Takeuchi</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Takahashi</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Maeda</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Tsunoda</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>P.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Meta-analysis identifies multiple loci associated with kidney function-related traits in east Asian populations</article-title>
+          <source>Nat. Genet.</source>
+          <year>2012</year>
+          <volume>44</volume>
+          <fpage>904</fpage>
+          <lpage>909</lpage>
+          <pub-id pub-id-type="doi">10.1038/ng.2352</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B35-cancers-12-00300">
+        <label>35.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wain</surname>
+              <given-names>L.V.</given-names>
+            </name>
+            <name>
+              <surname>Vaez</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Jansen</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Joehanes</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>van der Most</surname>
+              <given-names>P.J.</given-names>
+            </name>
+            <name>
+              <surname>Erzurumluoglu</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>O&#x2019;Reilly</surname>
+              <given-names>P.F.</given-names>
+            </name>
+            <name>
+              <surname>Cabrera</surname>
+              <given-names>C.P.</given-names>
+            </name>
+            <name>
+              <surname>Warren</surname>
+              <given-names>H.R.</given-names>
+            </name>
+            <name>
+              <surname>Rose</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Novel blood pressure locus and gene discovery using genome-wide association study and expression data sets from blood and the kidney</article-title>
+          <source>Hypertension</source>
+          <year>2017</year>
+          <volume>70</volume>
+          <fpage>e4</fpage>
+          <lpage>e19</lpage>
+          <pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.117.09438</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B36-cancers-12-00300">
+        <label>36.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fehringer</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kraft</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Pharoah</surname>
+              <given-names>P.D.</given-names>
+            </name>
+            <name>
+              <surname>Eeles</surname>
+              <given-names>R.A.</given-names>
+            </name>
+            <name>
+              <surname>Chatterjee</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Schumacher</surname>
+              <given-names>F.R.</given-names>
+            </name>
+            <name>
+              <surname>Schildkraut</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Lindstr&#xF6;m</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Brennan</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Bickeb&#xF6;ller</surname>
+              <given-names>H.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Cross-cancer genome-wide analysis of lung, ovary, breast, prostate, and colorectal cancer reveals novel pleiotropic associations</article-title>
+          <source>Cancer Res.</source>
+          <year>2016</year>
+          <volume>76</volume>
+          <fpage>5103</fpage>
+          <lpage>5114</lpage>
+          <pub-id pub-id-type="doi">10.1158/0008-5472.CAN-15-2980</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B37-cancers-12-00300">
+        <label>37.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Holder</surname>
+              <given-names>A.M.</given-names>
+            </name>
+            <name>
+              <surname>Akcakanat</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Adkins</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Evans</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Wei</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Milton</surname>
+              <given-names>D.R.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Do</surname>
+              <given-names>K.-A.</given-names>
+            </name>
+            <name>
+              <surname>Janku</surname>
+              <given-names>F.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Epithelial to mesenchymal transition is associated with rapamycin resistance</article-title>
+          <source>Oncotarget</source>
+          <year>2015</year>
+          <volume>6</volume>
+          <fpage>19500</fpage>
+          <lpage>19513</lpage>
+          <pub-id pub-id-type="doi">10.18632/oncotarget.3669</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B38-cancers-12-00300">
+        <label>38.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valianou</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Filippidou</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>D.L.</given-names>
+            </name>
+            <name>
+              <surname>Vogel</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>E.Y.</given-names>
+            </name>
+            <name>
+              <surname>Liu</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Lu</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Bissler</surname>
+              <given-names>J.J.</given-names>
+            </name>
+            <name>
+              <surname>Astrinidis</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>Rapalog resistance is associated with mesenchymal-type changes in <italic>Tsc2</italic>-null cells</article-title>
+          <source>Sci. Rep.</source>
+          <year>2019</year>
+          <volume>9</volume>
+          <fpage>3015</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41598-019-39418-5</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B39-cancers-12-00300">
+        <label>39.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fenouille</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Bassil</surname>
+              <given-names>C.F.</given-names>
+            </name>
+            <name>
+              <surname>Ben-Sahra</surname>
+              <given-names>I.</given-names>
+            </name>
+            <name>
+              <surname>Benajiba</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Alexe</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Ramos</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pikman</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Conway</surname>
+              <given-names>A.S.</given-names>
+            </name>
+            <name>
+              <surname>Burgess</surname>
+              <given-names>M.R.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>Q.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The creatine kinase pathway is a metabolic vulnerability in EVI1-positive acute myeloid leukemia</article-title>
+          <source>Nat. Med.</source>
+          <year>2017</year>
+          <volume>23</volume>
+          <fpage>301</fpage>
+          <lpage>313</lpage>
+          <pub-id pub-id-type="doi">10.1038/nm.4283</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B40-cancers-12-00300">
+        <label>40.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Saito</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Sawa</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Kinoshita</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Yamada</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kamimura</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Suekane</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ogoh</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Matsuo</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Adachi</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Taga</surname>
+              <given-names>T.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>EVI1 triggers metabolic reprogramming associated with leukemogenesis and increases sensitivity to L-asparaginase</article-title>
+          <source>Haematologica</source>
+          <year>2019</year>
+          <pub-id pub-id-type="doi">10.3324/haematol.2019.225953</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B41-cancers-12-00300">
+        <label>41.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>S&#xE1;nchez-Gastaldo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Kempf</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Gonz&#xE1;lez Del Alba</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Duran</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title>Systemic treatment of renal cell cancer: A comprehensive review</article-title>
+          <source>Cancer Treat. Rev.</source>
+          <year>2017</year>
+          <volume>60</volume>
+          <fpage>77</fpage>
+          <lpage>89</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.ctrv.2017.08.010</pub-id>
+          <pub-id pub-id-type="pmid">28898679</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B42-cancers-12-00300">
+        <label>42.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mariathasan</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Turley</surname>
+              <given-names>S.J.</given-names>
+            </name>
+            <name>
+              <surname>Nickles</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Castiglioni</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Yuen</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wang</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Kadel</surname>
+              <given-names>E.E.</given-names>
+            </name>
+            <name>
+              <surname>Koeppen</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Astarita</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Cubas</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>TGF&#x3B2; attenuates tumour response to PD-L1 blockade by contributing to exclusion of T cells</article-title>
+          <source>Nature</source>
+          <year>2018</year>
+          <volume>554</volume>
+          <fpage>544</fpage>
+          <lpage>548</lpage>
+          <pub-id pub-id-type="doi">10.1038/nature25501</pub-id>
+          <pub-id pub-id-type="pmid">29443960</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B43-cancers-12-00300">
+        <label>43.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ravi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Noonan</surname>
+              <given-names>K.A.</given-names>
+            </name>
+            <name>
+              <surname>Pham</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Bedi</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Zhavoronkov</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Ozerov</surname>
+              <given-names>I.V.</given-names>
+            </name>
+            <name>
+              <surname>Makarev</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Artemov</surname>
+              <given-names>A.V.</given-names>
+            </name>
+            <name>
+              <surname>Wysocki</surname>
+              <given-names>P.T.</given-names>
+            </name>
+            <name>
+              <surname>Mehra</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Bifunctional immune checkpoint-targeted antibody-ligand traps that simultaneously disable TGF&#x3B2; enhance the efficacy of cancer immunotherapy</article-title>
+          <source>Nat. Commun.</source>
+          <year>2018</year>
+          <volume>9</volume>
+          <fpage>741</fpage>
+          <pub-id pub-id-type="doi">10.1038/s41467-017-02696-6</pub-id>
+          <pub-id pub-id-type="pmid">29467463</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B44-cancers-12-00300">
+        <label>44.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lan</surname>
+              <given-names>Y.</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Xu</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Hance</surname>
+              <given-names>K.W.</given-names>
+            </name>
+            <name>
+              <surname>Marelli</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Qi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Yu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Qin</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sircar</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Hern&#xE1;ndez</surname>
+              <given-names>V.M.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Enhanced preclinical antitumor activity of M7824, a bifunctional fusion protein simultaneously targeting PD-L1 and TGF-&#x3B2;</article-title>
+          <source>Sci. Transl. Med.</source>
+          <year>2018</year>
+          <volume>10</volume>
+          <fpage>424</fpage>
+          <pub-id pub-id-type="doi">10.1126/scitranslmed.aan5488</pub-id>
+          <pub-id pub-id-type="pmid">29343622</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B45-cancers-12-00300">
+        <label>45.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bodnar</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Stec</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Cierniak</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Synowiec</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Wcis&#x142;o</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Jesiotr</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Koktysz</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Koz&#x142;owski</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Szczylik</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Clinical usefulness of PI3K/Akt/mTOR genotyping in companion with other clinical variables in metastatic renal cell carcinoma patients treated with everolimus in the second and subsequent lines</article-title>
+          <source>Ann. Oncol.</source>
+          <year>2015</year>
+          <volume>26</volume>
+          <fpage>1385</fpage>
+          <lpage>1389</lpage>
+          <pub-id pub-id-type="doi">10.1093/annonc/mdv166</pub-id>
+          <pub-id pub-id-type="pmid">25962440</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B46-cancers-12-00300">
+        <label>46.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sauerbrei</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Taube</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>McShane</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Cavenagh</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Altman</surname>
+              <given-names>D.G.</given-names>
+            </name>
+          </person-group>
+          <article-title>Reporting recommendations for tumor marker prognostic studies (REMARK): an abridged explanation and elaboration</article-title>
+          <source>J. Natl. Cancer Inst.</source>
+          <year>2018</year>
+          <volume>110</volume>
+          <fpage>803</fpage>
+          <lpage>811</lpage>
+          <pub-id pub-id-type="doi">10.1093/jnci/djy088</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B47-cancers-12-00300">
+        <label>47.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ricketts</surname>
+              <given-names>C.J.</given-names>
+            </name>
+            <name>
+              <surname>De Cubas</surname>
+              <given-names>A.A.</given-names>
+            </name>
+            <name>
+              <surname>Fan</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>C.C.</given-names>
+            </name>
+            <name>
+              <surname>Lang</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Reznik</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Bowlby</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gibb</surname>
+              <given-names>E.A.</given-names>
+            </name>
+            <name>
+              <surname>Akbani</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Beroukhim</surname>
+              <given-names>R.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>The Cancer Genome Atlas comprehensive molecular characterization of renal cell carcinoma</article-title>
+          <source>Cell Rep.</source>
+          <year>2018</year>
+          <volume>23</volume>
+          <fpage>e313</fpage>
+          <lpage>326.e5</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.celrep.2018.03.075</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="B48-cancers-12-00300">
+        <label>48.</label>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Subramanian</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Tamayo</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Mootha</surname>
+              <given-names>V.K.</given-names>
+            </name>
+            <name>
+              <surname>Mukherjee</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ebert</surname>
+              <given-names>B.L.</given-names>
+            </name>
+            <name>
+              <surname>Gillette</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Paulovich</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pomeroy</surname>
+              <given-names>S.L.</given-names>
+            </name>
+            <name>
+              <surname>Golub</surname>
+              <given-names>T.R.</given-names>
+            </name>
+            <name>
+              <surname>Lander</surname>
+              <given-names>E.S.</given-names>
+            </name>
+            <etal/>
+          </person-group>
+          <article-title>Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles</article-title>
+          <source>Proc. Natl. Acad. Sci. USA</source>
+          <year>2005</year>
+          <volume>102</volume>
+          <fpage>15545</fpage>
+          <lpage>15550</lpage>
+          <pub-id pub-id-type="doi">10.1073/pnas.0506580102</pub-id>
+        </element-citation>
+      </ref>
+    </ref-list>
+    <sec sec-type="display-objects">
+      <title>Figures</title>
+      <fig id="cancers-12-00300-f001" position="float">
+        <label>Figure 1</label>
+        <caption>
+          <p>EVI1 expression in ccRCC tumors and venous tumor thrombi are associated with features of disease progression and poorer patient outcome. (<bold>A</bold>) Representative images of immunohistochemical detection of EVI1 in primary tumors (left panels) and venous tumor thrombi (right panels) from the cohort of 39 ccRCC cases (<xref ref-type="app" rid="app1-cancers-12-00300">Supplementary Table S1</xref>). The top panel insets include magnified images showing nuclear positivity in cancer cells; weaker staining in the cytoplasm is also appreciated in some cases, which is consistent with observations in other cancer types [<xref ref-type="bibr" rid="B8-cancers-12-00300">8</xref>,<xref ref-type="bibr" rid="B13-cancers-12-00300">13</xref>]. (<bold>B</bold>) Grid showing the proportions of EVI1 IHC positivity in tumors relative to lymph node status in the same cohort. The odds ratio (OR) and corresponding <italic>p</italic>-value (Fisher&#x2019;s exact test) for the association between EVI1 positivity and cancer-affected lymph node are shown. (<bold>C</bold>) Kaplan&#x2013;Meier curves showing the association between EVI1 positivity and poorer survival in the same cohort. The multivariate (including age and gender) Cox regression overall survival (OS) hazard ratio (HR) estimate, 95% CI, and <italic>p</italic>-value are shown. The estimations for age and gender (male as reference) in this model were, respectively: HR = 1.05, 95% CI = 0.99&#x2013;1.10, <italic>p</italic> = 0.07; and HR = 0.20, 95% CI = 0.07&#x2013;0.54, <italic>p</italic> = 0.002.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cancers-12-00300-g001.tif"/>
+      </fig>
+      <fig id="cancers-12-00300-f002" position="float">
+        <label>Figure 2</label>
+        <caption>
+          <p>Frequent chromosome 3q26 <italic>EVI1/MECOM</italic> gain in the CC-e.3 KIRC/ccRCC subtype, gene expression association with poorer outcome in this subtype, and with <italic>RHEB</italic> and <italic>RPTOR</italic> influencing progression. (<bold>A</bold>) Graph showing the proportions of <italic>EVI1/MECOM</italic> genomic alterations (as depicted in the inset) in TCGA KIRC primary tumor subtypes (CC-e.1-3). The percentage of tumors with genomic gain in each subtype is shown. (<bold>B</bold>) Kaplan&#x2013;Meier curves showing the association between <italic>EVI1</italic> overexpression and poorer PFI in the TCGA KIRC CC-e.3 cohort. This set was divided in two groups using the average expression value of <italic>EVI1</italic> as threshold (low or high <italic>EVI1</italic> tumor expression, being normally distributed). The multivariate (including age, gender, and tumor stage (I-II and III-IV) Cox regression HR estimate, 95% CI, and log-rank <italic>p</italic>-value are shown. (<bold>C</bold>) Kaplan&#x2013;Meier curves showing the association between overexpression of <italic>EVI1</italic> and <italic>RHEB</italic> (left panel) or <italic>RPTOR</italic> (right panel) with poorer PFI in the TCGA KIRC CC-e.3 cohort. This set was divided in four groups using the average expression value of <italic>EVI1</italic> and <italic>RHEB</italic> or <italic>RPTOR</italic> as thresholds (low or high <italic>EVI1</italic> and low or high <italic>RHEB</italic>/<italic>RPTOR</italic> tumor expression). The log-rank <italic>p</italic>-values are shown.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cancers-12-00300-g002.tif"/>
+      </fig>
+      <fig id="cancers-12-00300-f003" position="float">
+        <label>Figure 3</label>
+        <caption>
+          <p>Ectopic oncogenic <italic>EVI1</italic> overexpression confers resistance to everolimus. (<bold>A</bold>) Graphs showing viability of RCC cells (Y-axis) transiently transfected and selected with GFP or GFP-EVI1<sup>Del190&#x2013;515</sup> expression constructs, and exposed to different concentrations of everolimus for 72 hours (X-axis). The two cell line conditions (GFP and GFP-EVI1<sup>Del190&#x2013;515</sup>) are indicated in the insets and the estimated IC<sub>50</sub> values are shown in the graphs. Each measure shows the mean and standard deviation of quintuplicate values. The curve fitting regression was computed using the log value versus normalized response. (<bold>B</bold>) Western blot results from the three RCC cell lines and two conditions, treated with DMSO or everolimus (20 nM), and analyzed for the levels of total S6 and pS6, total AKT1 and pAKT1, and loading control (tubulin, TUBA; or vinculin, VCL). The solid arrows (top left panel) indicate increased levels of pS6 in GFP-EVI1<sup>Del190&#x2013;515</sup> over-expressing 786-O and ACHN cells. The dashed arrows indicate increased levels of total S6 in GFP-EVI1<sup>Del190&#x2013;515</sup> over-expressing ACHN cells. Molecular weight markers are shown on the left side and expressed in kiloDalton (kDa).</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cancers-12-00300-g003.tif"/>
+      </fig>
+      <fig id="cancers-12-00300-f004" position="float">
+        <label>Figure 4</label>
+        <caption>
+          <p>Common <italic>EVI1</italic> genetic variation is associated with response to everolimus of metastatic ccRCC. (<bold>A</bold>) Kaplan&#x2013;Meier curves of OS based on rs1344555 C/C (<italic>n</italic> = 35) against C/T (<italic>n</italic> = 16) plus T/T (<italic>n</italic> = 1) genotypes. The univariate Cox regression HR estimate, 95% CI, and log-rank <italic>p</italic> are shown. (<bold>B</bold>) Graph showing the association between rs1344555 genotypes and AKT1 expression in metastatic RCC. The Kruskal&#x2013;Wallis test <italic>p</italic>-value is shown. (<bold>C</bold>) Box plots showing the <italic>EVI1</italic> eQTL at rs11718241 in primary tumors from complete TCGA KIRC cohort (top panel) and from the CC-e.3 cohort (bottom panel). The Wilcoxon test <italic>p</italic>-values are shown. (<bold>D</bold>) Kaplan&#x2013;Meier curves of OS of metastatic ccRCC based on rs75316749 A/G (<italic>n</italic> = 5) against A/A (<italic>n</italic> = 45) genotypes.</p>
+        </caption>
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="cancers-12-00300-g004.tif"/>
+      </fig>
+    </sec>
+  </back>
+</article>

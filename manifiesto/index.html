@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Manifiesto · Luis Palomero, PhD | Consultoría Bioinformática Oncológica</title>
+  <meta name="description" content="Principios y valores que guían mi trabajo en consultoría bioinformática oncológica: reproducibilidad, simplicidad radical, altos estándares y honestidad metodológica." />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧬</text></svg>" />
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DFSF5WTWG7"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-DFSF5WTWG7');</script>
+
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans antialiased">
+
+<!-- ========== NAVBAR ========== -->
+<header class="sticky top-0 bg-white/80 backdrop-blur-md border-b border-slate-200 z-50">
+  <div class="max-w-5xl mx-auto px-6 h-16 flex items-center justify-between">
+    <a href="/" class="font-bold text-slate-900">Luis Palomero, <span class="text-blue-600">PhD</span></a>
+    <nav class="hidden md:flex space-x-6 text-sm font-medium text-slate-600">
+      <a data-ga-label="soluciones" href="/#soluciones" class="hover:text-blue-600 transition">Soluciones</a>
+      <a data-ga-label="enfoque" href="/#enfoque" class="hover:text-blue-600 transition">Enfoque</a>
+      <a data-ga-label="trayectoria" href="/#trayectoria" class="hover:text-blue-600 transition">Trayectoria</a>
+      <a data-ga-label="manifiesto" href="/manifiesto/" class="text-blue-600 hover:text-blue-700 transition">Manifiesto</a>
+    </nav>
+    <a data-ga-label="nav_solicitar" href="/#contacto" class="bg-blue-600 hover:bg-blue-700 text-white text-xs font-semibold px-4 py-2 rounded-lg shadow transition">
+      Solicitar Evaluación
+    </a>
+  </div>
+</header>
+
+<!-- ========== HERO ========== -->
+<section class="max-w-4xl mx-auto px-6 pt-20 pb-16 text-center">
+  <span class="text-xs font-semibold text-blue-600 uppercase tracking-widest">Documento de principios</span>
+  <h1 class="mt-4 text-4xl md:text-5xl font-extrabold text-slate-950 tracking-tight leading-tight">
+    Manifiesto
+  </h1>
+  <p class="mt-4 text-lg md:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
+    Cómo trabajo, qué defiendo y qué no haré. Un marco de principios para que sepas exactamente qué esperar cuando trabajamos juntos.
+  </p>
+</section>
+
+<!-- ========== ANTI-PILARES ========== -->
+<section class="bg-slate-900 text-white py-20">
+  <div class="max-w-4xl mx-auto px-6">
+    <h2 class="text-2xl md:text-3xl font-bold text-center mb-2">Anti-pilares</h2>
+    <p class="text-slate-400 text-center text-sm max-w-xl mx-auto mb-10">Si buscas esto, probablemente no soy la persona adecuada.</p>
+    <div class="grid grid-cols-1 gap-4 max-w-lg mx-auto">
+      <div class="flex items-start gap-3 bg-slate-800 p-4 rounded-lg border border-slate-700">
+        <span class="text-red-400 font-bold text-lg leading-none mt-0.5">✕</span>
+        <p class="text-sm text-slate-300">Poner un transformer donde basta una regresión logística.</p>
+      </div>
+      <div class="flex items-start gap-3 bg-slate-800 p-4 rounded-lg border border-slate-700">
+        <span class="text-red-400 font-bold text-lg leading-none mt-0.5">✕</span>
+        <p class="text-sm text-slate-300">Optimizar el 0.1 % de AUC a costa de explicabilidad.</p>
+      </div>
+      <div class="flex items-start gap-3 bg-slate-800 p-4 rounded-lg border border-slate-700">
+        <span class="text-red-400 font-bold text-lg leading-none mt-0.5">✕</span>
+        <p class="text-sm text-slate-300">Entregar un notebook con celdas fuera de orden.</p>
+      </div>
+      <div class="flex items-start gap-3 bg-slate-800 p-4 rounded-lg border border-slate-700">
+        <span class="text-red-400 font-bold text-lg leading-none mt-0.5">✕</span>
+        <p class="text-sm text-slate-300">Decir "funciona en producción" sin haberlo visto.</p>
+      </div>
+      <div class="flex items-start gap-3 bg-slate-800 p-4 rounded-lg border border-slate-700">
+        <span class="text-red-400 font-bold text-lg leading-none mt-0.5">✕</span>
+        <p class="text-sm text-slate-300">Usar IA para generar código que no entiendo.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== PILARES ========== -->
+<section class="max-w-5xl mx-auto px-6 py-20">
+  <h2 class="text-2xl md:text-3xl font-bold text-slate-950 text-center mb-2">Pilares</h2>
+  <p class="text-slate-500 text-center text-sm max-w-xl mx-auto mb-12">Los principios que guían cada pipeline, cada modelo, cada entrega.</p>
+
+  <div class="grid grid-cols-1 gap-6 max-w-lg mx-auto">
+    <div class="border-t-4 border-blue-600 bg-white p-6 rounded-b-xl shadow-sm border-x border-b border-slate-200">
+      <h3 class="font-bold text-slate-900 mb-2">1. Reproducibilidad y robustez</h3>
+      <p class="text-xs font-semibold text-blue-600 uppercase tracking-wider mb-3">En producción no hay "en mi máquina funciona"</p>
+      <ul class="text-xs text-slate-600 space-y-1.5 list-disc list-inside leading-relaxed">
+        <li>Versiones de todo: código, datos, dependencias, entorno.</li>
+        <li>Pipelines deterministas. Semilla fija. Orden explícito.</li>
+        <li>Cada pipeline en un contenedor.</li>
+        <li>Los experimentos dejan traza ejecutable.</li>
+      </ul>
+    </div>
+
+    <div class="border-t-4 border-emerald-600 bg-white p-6 rounded-b-xl shadow-sm border-x border-b border-slate-200">
+      <h3 class="font-bold text-slate-900 mb-2">2. Altos estándares de programación</h3>
+      <p class="text-xs font-semibold text-emerald-600 uppercase tracking-wider mb-3">El código es para quien lo leerá dentro de 6 meses</p>
+      <ul class="text-xs text-slate-600 space-y-1.5 list-disc list-inside leading-relaxed">
+        <li>Type hints. Tests. Nombres que explican intención.</li>
+        <li>Una función, una responsabilidad.</li>
+        <li>El testing es red de seguridad, no métrica.</li>
+        <li>Código aburrido y correcto > código brillante y frágil.</li>
+      </ul>
+    </div>
+
+    <div class="border-t-4 border-amber-600 bg-white p-6 rounded-b-xl shadow-sm border-x border-b border-slate-200">
+      <h3 class="font-bold text-slate-900 mb-2">3. Simplicidad radical</h3>
+      <p class="text-xs font-semibold text-amber-600 uppercase tracking-wider mb-3">El mejor método es el que puedes explicar en métodos</p>
+      <ul class="text-xs text-slate-600 space-y-1.5 list-disc list-inside leading-relaxed">
+        <li>Regresión logística bien construida > red neuronal opaca.</li>
+        <li>Cada transformación tiene un porqué.</li>
+        <li>Si necesita tutorial de 20 min, busca alternativa.</li>
+        <li>La complejidad se justifica, no se asume.</li>
+      </ul>
+    </div>
+
+    <div class="border-t-4 border-violet-600 bg-white p-6 rounded-b-xl shadow-sm border-x border-b border-slate-200">
+      <h3 class="font-bold text-slate-900 mb-2">4. Narrativa coherente</h3>
+      <p class="text-xs font-semibold text-violet-600 uppercase tracking-wider mb-3">Cada análisis cuenta una historia</p>
+      <ul class="text-xs text-slate-600 space-y-1.5 list-disc list-inside leading-relaxed">
+        <li>Pipeline legible como artículo: intro, métodos, resultados.</li>
+        <li>Código como narrativa. Comentarios explican el porqué.</li>
+        <li>Outputs con contexto. Un número sin significado no es resultado.</li>
+        <li>El investigador cuenta la historia; le doy herramientas.</li>
+      </ul>
+    </div>
+
+    <div class="border-t-4 border-slate-600 bg-white p-6 rounded-b-xl shadow-sm border-x border-b border-slate-200">
+      <h3 class="font-bold text-slate-900 mb-2">5. IA como herramienta de soporte</h3>
+      <p class="text-xs font-semibold text-slate-600 uppercase tracking-wider mb-3">Acelera, no decide</p>
+      <ul class="text-xs text-slate-600 space-y-1.5 list-disc list-inside leading-relaxed">
+        <li>La IA me ayuda a escribir tests, refactorizar, explorar.</li>
+        <li>La IA no toma decisiones metodológicas ni interpreta resultados.</li>
+        <li>Todo output de IA se revisa. Sin excepción.</li>
+        <li>Uso IA para eliminar trabajo tedioso, no pensamiento crítico.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- ========== CTA DOBLE ========== -->
+<section class="bg-slate-100 py-16 border-y border-slate-200">
+  <div class="max-w-3xl mx-auto px-6 text-center">
+    <h2 class="text-2xl font-bold text-slate-950 mb-4">¿Resuena contigo?</h2>
+    <p class="text-slate-600 text-sm max-w-lg mx-auto mb-8">
+      Si esta forma de trabajar encaja con lo que buscas, hablemos.
+    </p>
+    <div class="flex flex-col sm:flex-row justify-center gap-4">
+      <a data-ga-label="manifesto_pdf" href="/assets/docs/manifesto.pdf" download
+         class="border border-slate-300 hover:bg-slate-100 text-slate-700 font-medium px-6 py-3 rounded-lg transition text-sm">
+        📄 Descargar manifiesto completo (PDF)
+      </a>
+      <a data-ga-label="manifesto_cta" href="mailto:lpalomerol@gmail.com?subject=Consulta%20Consultor%C3%ADa%20Bioinform%C3%A1tica&body=Hola%20Luis,%0A%0AHe%20le%C3%ADdo%20tu%20manifiesto%20y%20me%20gustar%C3%ADa%20comentar%20un%20proyecto.%0A%0A1.%20Tipo%20de%20datos%20/%20Cohorte:%20%0A2.%20Objetivo%20/%20Cuello%20de%20botella:%20%0A3.%20Horarios%20que%20me%20vienen%20bien%20para%20una%20breve%20llamada:%20%0A%0AUn%20saludo."
+         class="bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-lg shadow transition text-sm">
+        Solicitar Evaluación
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-slate-900 text-slate-400 text-xs py-12">
+  <div class="max-w-5xl mx-auto px-6 space-y-6">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+      <p>&copy; 2026 Luis Palomero, PhD. Todos los derechos reservados.</p>
+      <div class="flex space-x-4">
+        <a href="/" class="hover:text-white transition">Inicio</a>
+        <a href="/manifiesto/" class="hover:text-white transition">Manifiesto</a>
+        <a href="https://www.linkedin.com/in/luispalomero/" target="_blank" rel="noopener" class="hover:text-white transition">LinkedIn</a>
+        <a href="mailto:lpalomerol@gmail.com" class="hover:text-white transition">Email</a>
+        <a href="https://orcid.org/0000-0002-9144-1017" target="_blank" rel="noopener" class="hover:text-white transition">ORCID</a>
+        <a href="https://github.com/lpalomerol" target="_blank" rel="noopener" class="hover:text-white transition">GitHub</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  if (typeof gtag === 'undefined') return;
+  var DEBOUNCE_MS = 300;
+  var lastEvent = {};
+
+  function sendGaEvent(action, label, extra) {
+    var now = Date.now();
+    var key = action + '|' + label;
+    if (lastEvent[key] && now - lastEvent[key] < DEBOUNCE_MS) return;
+    lastEvent[key] = now;
+    var params = { label: label };
+    if (extra) Object.assign(params, extra);
+    gtag('event', action, params);
+  }
+
+  document.addEventListener('click', function(e) {
+    var el = e.target.closest('[data-ga-label]');
+    if (!el) return;
+    var label = el.getAttribute('data-ga-label');
+    var href = el.getAttribute('href') || '';
+    if (href.includes('manifesto.pdf')) {
+      sendGaEvent('download_manifesto', label);
+    } else if (el.closest('nav') || el.closest('header')) {
+      sendGaEvent('nav_click', label);
+    } else {
+      sendGaEvent('cta_click', label);
+    }
+  });
+})();
+</script>
+
+</body>
+</html>

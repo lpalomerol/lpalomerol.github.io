@@ -1,0 +1,199 @@
+\documentclass[11pt]{article}
+
+\usepackage[letterpaper, margin=2.5cm, bottom=3cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{mathpazo}
+\usepackage{sectsty}
+\allsectionsfont{\normalfont\bfseries}
+\usepackage{xcolor}
+\usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{csquotes}
+\usepackage{enumitem}
+\usepackage{mdframed}
+
+\pagestyle{empty}
+\RaggedRight
+
+\begin{document}
+
+\begin{center}
+  {\LARGE\bfseries Manifiesto}\\[4pt]
+  {\large ML Engineer para Oncología}\\[12pt]
+  {\normalsize Luis Palomero, PhD\hfill v1.0 · junio 2026}
+\end{center}
+
+\hrule
+\vspace{1em}
+
+\section*{Anti-pilares (lo que no soy)}
+
+Si buscas a alguien que haga alguna de estas cosas, probablemente no soy la persona adecuada.
+
+\begin{itemize}[label=\textendash]
+  \item No soy el que pone un transformer donde basta una regresión logística.
+  \item No soy el que optimiza el 0.1\% de AUC a costa de explicabilidad.
+  \item No soy el que entrega un notebook con celdas fuera de orden.
+  \item No soy el que dice \enquote{funciona en producción} sin haberlo visto.
+  \item No soy el que usa IA para generar código que no entiende.
+\end{itemize}
+
+\section*{Declaración de intenciones}
+
+Construyo pipelines y modelos oncológicos que sean:
+
+\vspace{0.5em}
+
+\begin{mdframed}[leftline=true, topline=false, bottomline=false, rightline=false, innerleftmargin=1em, innerrightmargin=1em, skipabove=0.5em, skipbelow=0.5em]
+  \textbf{Reproducibles}: porque un resultado que no se puede replicar no es un resultado.
+
+  \textbf{Comprensibles}: porque si un clínico o un revisor no entiende lo que hago, he fracasado en mi trabajo.
+
+  \textbf{Robustos}: porque en oncología no hay \enquote{funciona casi siempre}.
+
+  \textbf{Honestos}: porque un método \emph{fancy} que nadie entiende no es innovación, es ruido.
+\end{mdframed}
+
+\vspace{0.5em}
+
+\begin{sloppypar}
+Mi objetivo no es impresionar con complejidad técnica. Es generar confianza a través de claridad y solidez metodo\-lógica.
+\end{sloppypar}
+
+\section*{Principio rector: simplicidad radical}
+
+La simplicidad no es pereza. Es la decisión activa de eliminar todo lo que no aporta.
+
+Un pipeline simple es:
+\begin{itemize}[label=\textendash]
+  \item Explicable en 5 minutos a un clínico.
+  \item Reparable por otro ingeniero sin llamarme.
+  \item Modificable sin cascadas de efectos secundarios.
+\end{itemize}
+
+\textbf{Regla}: si una abstracción oculta lógica relevante para el resultado, es magia. Y la magia no tiene cabida aquí.
+
+\section*{Pilares}
+
+\subsection*{1. Reproducibilidad y robustez en producción}
+
+En investigación oncológica, el peor escenario no es que un modelo falle. Es que funcione una vez y no se sepa por qué.
+
+\begin{itemize}[label=\textendash]
+  \item Pincho versiones de todo: código, datos, dependencias, entorno.
+  \item Los pipelines son deterministas. Semilla fija. Orden explícito.
+  \item Cada pipeline se ejecuta en un contenedor. No hay \enquote{en mi máquina funciona}.
+  \item Los experimentos dejan traza: qué se ejecutó, con qué parámetros, sobre qué datos.
+\end{itemize}
+
+\subsection*{2. Altos estándares de programación}
+
+El código no es solo para la máquina. Es para la persona que lo leerá dentro de seis meses (que probablemente sea yo).
+
+\begin{itemize}[label=\textendash]
+  \item Type hints. Tests. Nombres que explican intención, no implementación.
+  \item Una función, una responsabilidad.
+  \item El testing no es una métrica. Es una red de seguridad que permite moverse rápido sin miedo a romper.
+  \item Prefiero código aburrido y correcto a código brillante y frágil.
+\end{itemize}
+
+\subsection*{3. Simplicidad en métodos (sin magia)}
+
+El método más sofisticado no es el mejor. El mejor es el que el investigador puede explicar en la sección de métodos del paper.
+
+\begin{itemize}[label=\textendash]
+  \item Una regresión logística bien construida vale más que una red neuronal que nadie entiende.
+  \item Cada transformación de datos tiene un porqué. Si no puedes justificarla, no la hagas.
+  \item Si el método necesita un tutorial de 20 minutos para entenderlo, busca una alternativa más simple.
+  \item La complejidad se justifica, no se asume.
+\end{itemize}
+
+\subsection*{4. Narrativa coherente}
+
+Un análisis oncológico cuenta una historia. Desde la pregunta clínica hasta la interpretación.
+
+\begin{itemize}[label=\textendash]
+  \item Cada pipeline se lee como un artículo: introducción (qué preguntamos), métodos (cómo lo hicimos), resultados (qué encontramos).
+  \item El código es legible como narrativa. Los comentarios explican el porqué, no el qué.
+  \item Los outputs tienen contexto. Un número sin su significado no es un resultado.
+  \item La historia la cuenta el investigador. Mi trabajo es darle las herramientas para contarla bien.
+\end{itemize}
+
+\subsection*{5. IA como herramienta de soporte}
+
+La inteligencia artificial es un asistente, no un sustituto. Acelera, no decide.
+
+\begin{itemize}[label=\textendash]
+  \item La IA me ayuda a escribir tests, refactorizar código, explorar alternativas.
+  \item La IA no toma decisiones metodológicas. No interpreta resultados. No firma papers.
+  \item Todo output de IA se revisa. Todo. Sin excepción.
+  \item \textbf{Transparencia}: cuando entrego un trabajo, especifico qué partes han sido asistidas por IA y cómo se han verificado.
+  \item El juicio clínico y la experiencia del investigador son irremplazables.
+  \item Uso la IA para eliminar trabajo tedioso, no para eliminar pensamiento crítico.
+\end{itemize}
+
+\section*{Filosofía de testing}
+
+Si no escribes código, el testing te importa menos de lo que debería. En términos simples:
+
+Cuando modifico un pipeline, ejecuto verificaciones automáticas que comprueban que los resultados no han cambiado. Si algo se rompe, los tests me lo dicen antes de entregarte nada.
+
+\begin{itemize}[label=\textendash]
+  \item Los resultados que recibes son consistentes entre versiones del pipeline.
+  \item Puedo modificar el código sin riesgo de errores silenciosos.
+  \item Cada pipeline se prueba con datos sintéticos donde el resultado correcto es conocido.
+\end{itemize}
+
+\textbf{En una frase}: si ejecutas el mismo análisis dos veces con los mismos datos y código, obtienes exactamente el mismo resultado. Eso es testing.
+
+\section*{Validación experimental}
+
+El modelado computacional genera hipótesis. La validación experimental las confirma.
+
+Un resultado bioinformático --- un gen candidato, una firma pronóstica, una vía enriquecida --- es un punto de partida, no una conclusión. Para que sea publicable necesita, idealmente:
+\begin{itemize}[label=\textendash]
+  \item Validación en una cohorte independiente.
+  \item Contraste con datos de proteína (IHC, western blot) cuando sea posible.
+  \item Revisión por un clínico o biólogo que evalúe la plausibilidad biológica.
+\end{itemize}
+
+Mi responsabilidad es dejar claros los límites de lo que los datos permiten afirmar. Si es correlacional, se dice. Si necesita confirmación experimental, se dice.
+
+\section*{Cómo trabajamos juntos}
+
+\subsection*{Lo que siempre recibirás}
+
+\begin{sloppypar}
+\begin{itemize}[label=\textendash]
+  \item \textbf{Pipeline reproducible}: scripts organizados, dependencias declaradas, instrucciones de ejecución.
+  \item \textbf{Reporte en PDF}: métodos, resultados, figuras publicables y código fuente.
+  \item \textbf{Datos versionados}: cada resultado vinculado a una versión específica de código y datos.
+  \item \textbf{Resultados consistentes}: testing automático garantiza que no hay errores silenciosos.
+  \item \textbf{Dos rondas de revisión incluidas}: cambios de alcance se presupuestan aparte.
+  \item \textbf{Código fuente completo}: pipelines, scripts y configu\-ración. Si quieres revisarlo, ejecutarlo o adaptarlo, te lo entrego sin reservas.
+  \item \textbf{Comunicación clara}: si algo necesita ajuste, lo sabrás antes de que sea un problema.
+\end{itemize}
+\end{sloppypar}
+
+\subsection*{Qué espero de ti}
+
+\begin{itemize}[label=\textendash]
+  \item \textbf{Contexto biológico}: qué pregunta responder, qué sabes ya, qué te preocupa.
+  \item \textbf{Datos en bruto}: sin procesar, con metadatos claros.
+  \item \textbf{Revisión crítica}: si algo no te cuadra, dímelo.
+  \item \textbf{Honestidad sobre el uso esperado}: publicación Q1, grant o exploración --- el esfuerzo es distinto.
+\end{itemize}
+
+\subsection*{Límite de competencia}
+
+Yo sé de datos, pipelines y modelos. Tú sabes de biología tumoral, microambiente inmune e interpretación clínica. El resultado es mejor cuando no confundimos los roles.
+
+No interpreto resultados biológicos. No firmo papers como coautor a menos que contribuya intelectualmente.
+
+Pero diseño cada análisis para que sus resultados puedan ser interpretados desde una perspectiva biológica. Un hallazgo sin contexto biológico no es un hallazgo. Por eso los outputs incluyen información de contexto, anotaciones funcionales y referencias que permitan al investigador evaluar la relevancia sin tener que bucear en código.
+
+Mi trabajo termina donde empieza el juicio del investigador. Pero intento dejarle el mejor punto de partida posible.
+
+\end{document}
